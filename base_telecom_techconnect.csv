@@ -1,0 +1,1001 @@
+﻿ID_Cliente,Genero,Idoso,Parceiro,Meses_Contrato,Tipo_Internet,Tipo_Contrato,Valor_Mensal,Valor_Total,Cancelou_Churn
+6640-IHHNN,Feminino,1,Não,54,Não,2 Anos,39.46,2130.84,Não
+4275-QQFMA,Masculino,0,Não,6,DSL,Mensal,44.57,267.42,Não
+3730-GEBIL,Feminino,1,Sim,7,Fibra Ótica,Mensal,43.03,301.21,Sim
+2798-OUDWE,Feminino,1,Sim,7,DSL,Mensal,56.2,393.4,Não
+1054-FVJGL,Feminino,0,Não,3,DSL,Mensal,90.98,272.94,Sim
+9622-NSXAX,Feminino,0,Não,3,Fibra Ótica,Mensal,104.04,312.12,Não
+2121-HSZVI,Feminino,0,Não,63,Não,2 Anos,69.95,4406.85,Não
+7648-OOFOM,Feminino,1,Sim,43,Fibra Ótica,2 Anos,33.77,1452.11,Sim
+2613-VSZTR,Feminino,0,Sim,37,Fibra Ótica,2 Anos,34.02,1258.74,Não
+2132-XPIFE,Feminino,1,Sim,36,DSL,2 Anos,100.66,3623.76,Não
+6682-GBYPX,Masculino,0,Sim,23,Não,1 Ano,108.18,2488.14,Não
+9405-RSFLY,Feminino,0,Não,11,Fibra Ótica,Mensal,65.16,716.76,Sim
+4772-JNNER,Masculino,0,Sim,12,DSL,Mensal,51.05,612.6,Não
+5429-GOHKF,Feminino,0,Não,41,DSL,2 Anos,70.09,2873.69,Não
+6432-PMFAF,Masculino,1,Sim,45,Fibra Ótica,2 Anos,109.01,4905.45,Não
+3313-XKQOC,Masculino,0,Não,6,DSL,Mensal,77.85,467.1,Não
+7149-ETBBA,Feminino,0,Não,12,Fibra Ótica,Mensal,114.65,1375.8,Não
+5115-EXMMW,Feminino,0,Não,22,Não,1 Ano,114.9,2527.8,Não
+3399-PABHX,Masculino,0,Sim,28,DSL,2 Anos,31.35,877.8,Não
+8641-BBMPG,Masculino,0,Sim,38,Fibra Ótica,2 Anos,58.97,2240.86,Não
+6902-HGZKI,Masculino,0,Não,60,Não,2 Anos,78.38,4702.8,Não
+6949-FQTVQ,Masculino,0,Sim,10,DSL,Mensal,107.02,1070.2,Sim
+9389-SOUNT,Feminino,0,Não,5,Fibra Ótica,Mensal,31.49,157.45,Sim
+5127-GQBSA,Masculino,1,Não,50,DSL,2 Anos,60.16,3008.0,Não
+4840-YSOLE,Feminino,0,Não,12,Fibra Ótica,1 Ano,45.69,548.28,Não
+1255-RJEYT,Feminino,0,Não,8,DSL,Mensal,40.49,323.92,Não
+9266-KEFGA,Feminino,0,Sim,2,Fibra Ótica,Mensal,108.77,217.54,Sim
+8859-YVRFK,Masculino,0,Não,8,Fibra Ótica,Mensal,66.4,531.2,Sim
+5644-XDFRY,Masculino,0,Não,39,DSL,2 Anos,80.34,3133.26,Não
+4008-ZZVAL,Feminino,0,Não,9,DSL,Mensal,67.91,611.19,Sim
+8064-ISSFU,Masculino,0,Sim,17,Fibra Ótica,1 Ano,80.34,1365.78,Não
+4212-PLGGY,Masculino,0,Sim,9,DSL,Mensal,31.87,286.83,Não
+6418-DSEJH,Feminino,0,Sim,30,Fibra Ótica,2 Anos,38.13,1143.9,Não
+3454-SEFCE,Feminino,1,Não,2,Não,Mensal,34.24,68.48,Sim
+1761-OFYZX,Masculino,0,Não,8,Não,Mensal,85.22,681.76,Sim
+9380-EEPXX,Masculino,1,Sim,6,DSL,Mensal,108.79,652.74,Não
+8623-IINOU,Masculino,0,Sim,6,DSL,Mensal,114.39,686.34,Não
+9136-HIEYT,Feminino,0,Sim,7,DSL,Mensal,97.81,684.67,Não
+3417-XICRT,Feminino,0,Sim,56,Não,2 Anos,37.83,2118.48,Não
+3837-OFCGD,Masculino,0,Não,7,Fibra Ótica,Mensal,32.17,225.19,Não
+6109-YWHYI,Masculino,0,Não,5,DSL,Mensal,51.09,255.45,Sim
+7296-QPFBD,Masculino,0,Sim,63,DSL,2 Anos,38.63,2433.69,Não
+4845-FAWWT,Feminino,0,Não,10,DSL,Mensal,114.95,1149.5,Não
+8756-ITXNI,Feminino,0,Não,11,DSL,Mensal,82.4,906.4,Não
+9851-NTIIO,Masculino,0,Não,47,DSL,2 Anos,101.26,4759.22,Não
+3556-YVLWD,Masculino,0,Não,12,Fibra Ótica,Mensal,51.24,614.88,Não
+8243-RRHGA,Feminino,1,Não,2,DSL,Mensal,43.04,86.08,Sim
+2904-JCAEJ,Feminino,0,Não,1,DSL,Mensal,112.54,112.54,Sim
+8930-NWKAH,Masculino,0,Não,2,Não,Mensal,58.68,117.36,Não
+7188-MGXBL,Masculino,1,Não,9,Fibra Ótica,Mensal,41.14,370.26,Sim
+5663-AQPUL,Masculino,0,Sim,2,Não,Mensal,82.4,164.8,Não
+1796-RVCVX,Masculino,0,Sim,2,DSL,Mensal,103.75,207.5,Sim
+9662-UZNOH,Feminino,1,Sim,37,Fibra Ótica,2 Anos,116.34,4304.58,Não
+7614-ELNJQ,Masculino,1,Não,65,Fibra Ótica,2 Anos,104.15,6769.75,Não
+6801-XHHDB,Masculino,1,Sim,17,Não,1 Ano,91.67,1558.39,Não
+5598-RYCCM,Masculino,0,Não,6,Fibra Ótica,Mensal,74.05,444.3,Sim
+9244-WWMVP,Masculino,0,Sim,12,DSL,Mensal,93.59,1123.08,Não
+8864-SFWUT,Feminino,0,Sim,12,Fibra Ótica,Mensal,45.19,542.28,Sim
+5809-KOMPB,Feminino,0,Sim,3,DSL,Mensal,49.87,149.61,Sim
+6347-FYSYY,Masculino,0,Não,12,DSL,1 Ano,66.63,799.56,Não
+7944-UKOBB,Feminino,0,Não,60,Fibra Ótica,2 Anos,74.72,4483.2,Não
+1677-VMTGI,Masculino,0,Não,19,DSL,1 Ano,67.57,1283.83,Não
+2066-DEZKC,Masculino,0,Sim,17,Fibra Ótica,1 Ano,74.84,1272.28,Não
+8463-DEFPK,Masculino,1,Sim,9,DSL,Mensal,73.34,660.06,Não
+6517-MLKEO,Feminino,0,Sim,5,DSL,Mensal,105.83,529.15,Sim
+1071-TAFPN,Feminino,1,Sim,17,Fibra Ótica,1 Ano,48.21,819.57,Não
+8987-KYAWR,Masculino,1,Não,36,DSL,2 Anos,97.27,3501.72,Não
+1915-CXTUP,Masculino,1,Sim,4,DSL,Mensal,50.38,201.52,Sim
+1899-XABEU,Masculino,0,Não,57,DSL,2 Anos,77.47,4415.79,Não
+4904-YBSNS,Feminino,1,Não,6,Não,Mensal,114.29,685.74,Não
+9258-ACBTQ,Feminino,0,Não,21,Fibra Ótica,1 Ano,75.96,1595.16,Não
+5026-MEUUR,Feminino,0,Não,33,Fibra Ótica,2 Anos,114.86,3790.38,Não
+8985-LYZVX,Masculino,0,Sim,5,Fibra Ótica,Mensal,103.6,518.0,Sim
+1032-HMTZH,Masculino,1,Não,20,Não,1 Ano,52.11,1042.2,Não
+4205-FRPYJ,Feminino,0,Não,10,DSL,Mensal,82.53,825.3,Não
+9866-VCUHF,Feminino,0,Sim,9,DSL,Mensal,83.02,747.18,Não
+4388-PSLSO,Masculino,0,Não,12,Fibra Ótica,Mensal,118.22,1418.64,Não
+8366-GZDYQ,Feminino,0,Não,10,Fibra Ótica,Mensal,82.27,822.7,Sim
+4147-MKTLX,Masculino,0,Não,6,Fibra Ótica,Mensal,89.73,538.38,Não
+2239-RLVGR,Feminino,0,Sim,55,Fibra Ótica,2 Anos,59.69,3282.95,Não
+4023-AWGYK,Masculino,0,Não,2,Fibra Ótica,Mensal,86.97,173.94,Não
+2037-IOSVQ,Feminino,0,Sim,20,DSL,1 Ano,93.13,1862.6,Não
+7649-EUAYC,Feminino,0,Não,37,DSL,2 Anos,70.68,2615.16,Sim
+5721-RUWSQ,Masculino,0,Sim,72,Fibra Ótica,2 Anos,85.9,6184.8,Sim
+5063-UWTPI,Masculino,0,Não,35,Não,2 Anos,106.27,3719.45,Não
+3562-IAZEI,Masculino,0,Não,11,Fibra Ótica,Mensal,90.82,999.02,Não
+5698-LHBMV,Feminino,0,Sim,1,Não,Mensal,93.85,93.85,Sim
+8626-RHOIQ,Feminino,0,Não,13,Fibra Ótica,1 Ano,50.54,657.02,Não
+3795-RAJKE,Masculino,0,Não,1,Não,Mensal,108.24,108.24,Sim
+4610-CZDOU,Feminino,1,Não,21,Fibra Ótica,1 Ano,30.2,634.2,Não
+8983-BTIEK,Masculino,0,Sim,11,Não,Mensal,116.6,1282.6,Não
+6017-JFVBO,Feminino,1,Não,3,Não,Mensal,93.53,280.59,Sim
+8980-WUACV,Masculino,0,Sim,12,Não,1 Ano,47.6,571.2,Não
+1868-XEHWY,Feminino,0,Não,32,DSL,2 Anos,115.73,3703.36,Sim
+6877-PYXKS,Feminino,1,Não,3,DSL,Mensal,85.07,255.21,Sim
+6144-XAYPZ,Feminino,0,Sim,24,DSL,1 Ano,52.27,1254.48,Não
+1844-MEQWN,Masculino,0,Sim,22,Fibra Ótica,1 Ano,114.53,2519.66,Não
+1719-HVOJU,Masculino,0,Sim,12,Fibra Ótica,1 Ano,59.73,716.76,Não
+2359-RUOTC,Masculino,1,Não,6,DSL,Mensal,87.51,525.06,Não
+1600-JQPFX,Feminino,1,Sim,8,DSL,Mensal,35.66,285.28,Não
+2550-YSPRV,Feminino,0,Não,15,DSL,1 Ano,35.94,539.1,Não
+4374-OKOHZ,Feminino,1,Sim,20,Fibra Ótica,1 Ano,61.96,1239.2,Não
+3547-NGUDF,Feminino,0,Sim,20,Fibra Ótica,1 Ano,48.79,975.8,Não
+8217-AZQMD,Masculino,0,Sim,17,Fibra Ótica,1 Ano,108.62,1846.54,Não
+2288-UFINV,Feminino,1,Não,23,Não,1 Ano,114.58,2635.34,Não
+8076-NVWKH,Masculino,0,Não,19,DSL,1 Ano,41.93,796.67,Não
+9040-VXRKQ,Masculino,0,Sim,16,Fibra Ótica,1 Ano,68.61,1097.76,Não
+3422-YGZUG,Feminino,0,Sim,8,DSL,Mensal,113.54,908.32,Não
+3557-HCWEI,Feminino,0,Não,34,Fibra Ótica,2 Anos,39.45,1341.3,Não
+3430-HPZLQ,Masculino,0,Não,12,DSL,Mensal,71.7,860.4,Não
+4553-PCHQE,Feminino,0,Não,21,Não,1 Ano,34.56,725.76,Não
+9233-TECVH,Feminino,0,Não,24,Fibra Ótica,2 Anos,42.14,1011.36,Não
+9405-ZPBRK,Masculino,1,Não,8,DSL,Mensal,86.27,690.16,Não
+6068-NXTYW,Masculino,0,Não,1,Fibra Ótica,Mensal,45.41,45.41,Sim
+4651-AXIFY,Feminino,0,Sim,3,Fibra Ótica,Mensal,88.8,266.4,Sim
+9963-LNMNL,Masculino,0,Não,1,Não,Mensal,51.3,51.3,Sim
+2242-TAZFT,Masculino,0,Sim,65,Fibra Ótica,2 Anos,57.99,3769.35,Não
+3850-TIYQK,Feminino,0,Não,20,Não,1 Ano,60.15,1203.0,Não
+6979-XRUHK,Feminino,0,Sim,22,DSL,1 Ano,85.75,1886.5,Não
+7184-JRASU,Feminino,0,Sim,6,DSL,Mensal,89.87,539.22,Não
+4083-ILADA,Masculino,0,Não,8,DSL,Mensal,30.65,245.2,Não
+5510-BFIDJ,Feminino,0,Não,66,DSL,2 Anos,79.74,5262.84,Sim
+7737-HSELG,Masculino,0,Sim,11,DSL,Mensal,58.24,640.64,Não
+8845-EOSVQ,Masculino,0,Sim,21,Não,1 Ano,89.14,1871.94,Não
+7233-YSSVH,Feminino,0,Não,48,DSL,2 Anos,80.12,3845.76,Sim
+3481-JKFHZ,Masculino,0,Não,5,DSL,Mensal,59.39,296.95,Sim
+9778-DQSCY,Masculino,0,Sim,4,Fibra Ótica,Mensal,93.4,373.6,Sim
+7371-THQXM,Masculino,1,Não,4,DSL,Mensal,103.17,412.68,Sim
+2415-ORWOD,Masculino,0,Sim,17,Não,1 Ano,94.72,1610.24,Não
+7430-ODASF,Masculino,1,Não,37,DSL,2 Anos,116.95,4327.15,Não
+2477-GMUHP,Feminino,1,Sim,16,Fibra Ótica,1 Ano,79.11,1265.76,Não
+4070-NTZQI,Masculino,0,Não,13,Fibra Ótica,1 Ano,104.48,1358.24,Não
+7472-WWAPJ,Masculino,0,Não,10,Fibra Ótica,Mensal,108.03,1080.3,Sim
+4701-DQZIH,Masculino,0,Não,41,Não,2 Anos,70.52,2891.32,Não
+2854-KMDYY,Feminino,1,Sim,6,DSL,Mensal,101.68,610.08,Não
+9962-SGQEK,Masculino,1,Sim,9,DSL,Mensal,51.87,466.83,Não
+8466-IEOXK,Feminino,1,Não,5,Fibra Ótica,Mensal,85.22,426.1,Não
+3213-XIFBD,Masculino,1,Sim,57,DSL,2 Anos,114.6,6532.2,Não
+5738-TVLUC,Masculino,0,Sim,60,DSL,2 Anos,40.97,2458.2,Não
+6746-IQZXE,Feminino,0,Sim,2,DSL,Mensal,76.2,152.4,Não
+1051-MZJCV,Feminino,0,Sim,22,Não,1 Ano,71.94,1582.68,Não
+9505-GKPJD,Feminino,0,Sim,63,DSL,2 Anos,103.8,6539.4,Não
+9909-OENHY,Masculino,1,Não,3,Fibra Ótica,Mensal,35.76,107.28,Não
+9592-BLWZL,Feminino,0,Não,30,Fibra Ótica,2 Anos,97.0,2910.0,Sim
+4768-SCTRH,Masculino,0,Sim,5,DSL,Mensal,79.87,399.35,Sim
+1817-NSZIK,Feminino,0,Não,8,DSL,Mensal,102.86,822.88,Não
+8233-HLRZN,Masculino,1,Não,2,DSL,Mensal,35.14,70.28,Sim
+1367-DZJTQ,Feminino,0,Sim,43,Não,2 Anos,77.28,3323.04,Não
+4356-VYHKD,Masculino,1,Não,7,Fibra Ótica,Mensal,91.65,641.55,Não
+3673-FIAIT,Masculino,1,Sim,1,Fibra Ótica,Mensal,54.61,54.61,Sim
+8779-XSYKN,Feminino,1,Não,11,Não,Mensal,35.45,389.95,Não
+2382-LUXQA,Feminino,0,Sim,5,Fibra Ótica,Mensal,60.59,302.95,Não
+4994-TTTXK,Feminino,0,Não,27,Fibra Ótica,2 Anos,113.7,3069.9,Não
+6711-EBRTL,Masculino,0,Não,9,DSL,Mensal,67.7,609.3,Não
+3459-LWMPA,Masculino,0,Sim,49,DSL,2 Anos,87.5,4287.5,Não
+6540-BMGQU,Masculino,0,Sim,3,Fibra Ótica,Mensal,64.8,194.4,Não
+8797-CCLCD,Masculino,0,Não,4,DSL,Mensal,78.31,313.24,Sim
+8604-EZKXL,Masculino,0,Sim,69,DSL,2 Anos,102.75,7089.75,Não
+5879-YUMDJ,Feminino,0,Sim,11,Não,Mensal,58.55,644.05,Não
+7806-LRTTY,Feminino,0,Sim,54,Fibra Ótica,2 Anos,63.41,3424.14,Não
+1126-ZBLKI,Masculino,0,Não,53,Não,2 Anos,114.94,6091.82,Não
+7346-KQDTF,Feminino,0,Não,54,Fibra Ótica,2 Anos,89.3,4822.2,Não
+4538-ZQSWU,Masculino,0,Sim,71,DSL,2 Anos,51.89,3684.19,Não
+5316-NEMBE,Feminino,0,Não,7,DSL,Mensal,83.07,581.49,Sim
+4421-FENQT,Masculino,1,Sim,48,Fibra Ótica,2 Anos,91.66,4399.68,Não
+8264-KROZV,Feminino,0,Sim,61,DSL,2 Anos,60.54,3692.94,Não
+5437-ICLNS,Masculino,0,Sim,9,Não,Mensal,101.05,909.45,Não
+3206-KADAU,Feminino,0,Não,8,Fibra Ótica,Mensal,32.84,262.72,Não
+3383-XQPMC,Feminino,1,Não,26,Fibra Ótica,2 Anos,31.8,826.8,Não
+7834-LWWKL,Feminino,0,Não,35,DSL,2 Anos,65.82,2303.7,Não
+8968-JPKDU,Masculino,1,Não,11,Fibra Ótica,Mensal,56.18,617.98,Não
+4005-EHJID,Feminino,1,Não,27,Fibra Ótica,2 Anos,76.44,2063.88,Não
+7992-VOEXH,Masculino,1,Sim,24,Fibra Ótica,2 Anos,119.51,2868.24,Não
+5181-BKCUZ,Feminino,0,Não,14,Fibra Ótica,1 Ano,88.39,1237.46,Não
+4611-FOMHB,Feminino,0,Não,7,DSL,Mensal,45.42,317.94,Não
+1221-VQQUU,Masculino,1,Não,5,DSL,Mensal,101.6,508.0,Sim
+3537-SJOWV,Masculino,0,Não,61,Fibra Ótica,2 Anos,34.08,2078.88,Não
+9953-CNXXS,Feminino,0,Não,2,DSL,Mensal,51.52,103.04,Sim
+7885-APHTM,Feminino,0,Sim,25,DSL,2 Anos,51.45,1286.25,Não
+6748-BSSUF,Feminino,0,Não,17,Fibra Ótica,1 Ano,53.23,904.91,Não
+8903-ZWIQE,Feminino,0,Não,10,DSL,Mensal,93.13,931.3,Não
+3862-ZKYLW,Masculino,0,Sim,3,Fibra Ótica,Mensal,98.13,294.39,Não
+5893-FPRYK,Masculino,0,Não,12,Não,Mensal,67.42,809.04,Sim
+8369-JWXQS,Feminino,0,Sim,17,DSL,1 Ano,118.86,2020.62,Não
+3519-XDBBQ,Feminino,0,Não,8,Não,Mensal,104.83,838.64,Não
+3414-QNQZK,Feminino,0,Não,29,Fibra Ótica,2 Anos,106.62,3091.98,Não
+5559-XQXML,Masculino,0,Sim,32,DSL,2 Anos,80.88,2588.16,Não
+1458-BROYS,Masculino,0,Não,11,Não,Mensal,77.91,857.01,Não
+9790-HLRBM,Feminino,0,Sim,8,Fibra Ótica,Mensal,46.4,371.2,Sim
+2834-NNMJJ,Feminino,0,Não,52,Não,2 Anos,33.14,1723.28,Não
+5832-DASCP,Masculino,0,Não,71,Não,2 Anos,45.26,3213.46,Não
+9541-XJFEO,Feminino,0,Não,21,DSL,1 Ano,103.73,2178.33,Não
+7057-YCKPH,Masculino,1,Sim,9,Fibra Ótica,Mensal,40.52,364.68,Sim
+2155-PBGJX,Masculino,1,Não,13,DSL,1 Ano,91.83,1193.79,Não
+7437-OBIYM,Feminino,1,Não,2,Fibra Ótica,Mensal,70.02,140.04,Sim
+8141-RXATQ,Masculino,0,Sim,36,DSL,2 Anos,116.86,4206.96,Não
+9799-MDNJX,Feminino,0,Não,58,Fibra Ótica,2 Anos,79.32,4600.56,Não
+5972-MRCRH,Feminino,1,Sim,18,Fibra Ótica,1 Ano,45.2,813.6,Não
+4600-FOHXP,Masculino,0,Sim,9,Não,Mensal,49.09,441.81,Não
+4074-HXTWP,Feminino,0,Sim,11,Não,Mensal,59.32,652.52,Não
+9114-WEHPC,Masculino,0,Não,4,DSL,Mensal,54.64,218.56,Sim
+6512-GOLEL,Masculino,0,Sim,3,DSL,Mensal,33.28,99.84,Não
+3076-WDMHX,Masculino,1,Não,3,Não,Mensal,89.55,268.65,Sim
+1311-ACIQT,Masculino,1,Não,34,Fibra Ótica,2 Anos,69.27,2355.18,Não
+5730-XZMXC,Masculino,0,Não,4,DSL,Mensal,54.39,217.56,Não
+9478-OAIRA,Masculino,0,Não,71,DSL,2 Anos,83.9,5956.9,Não
+2439-TERDD,Masculino,0,Não,69,Fibra Ótica,2 Anos,114.03,7868.07,Não
+1577-IJOAR,Feminino,0,Sim,22,Não,1 Ano,51.21,1126.62,Não
+1932-CLSVQ,Feminino,1,Sim,3,Não,Mensal,56.87,170.61,Não
+4823-GUSKB,Feminino,0,Sim,4,Fibra Ótica,Mensal,103.82,415.28,Não
+3507-GTCPC,Masculino,0,Sim,35,DSL,2 Anos,77.36,2707.6,Não
+5598-AMYZU,Masculino,0,Sim,9,Fibra Ótica,Mensal,43.1,387.9,Sim
+1804-ZZNTK,Masculino,0,Sim,12,DSL,Mensal,73.06,876.72,Não
+1892-FJBXO,Feminino,0,Sim,21,Fibra Ótica,1 Ano,80.36,1687.56,Não
+3488-MEZKU,Masculino,1,Não,41,Não,2 Anos,70.1,2874.1,Não
+3048-GRVRJ,Feminino,1,Não,14,Não,1 Ano,61.19,856.66,Não
+7516-CSZLK,Masculino,1,Não,39,Não,2 Anos,83.75,3266.25,Não
+8218-LPWKV,Masculino,1,Sim,2,Não,Mensal,79.52,159.04,Não
+5341-BJPJM,Masculino,1,Não,65,Fibra Ótica,2 Anos,40.24,2615.6,Não
+4551-NPNAI,Masculino,0,Não,51,DSL,2 Anos,54.57,2783.07,Não
+7337-IUEAH,Feminino,0,Sim,9,Fibra Ótica,Mensal,53.24,479.16,Sim
+8072-OIZXN,Feminino,0,Sim,7,Fibra Ótica,Mensal,48.17,337.19,Sim
+6808-TZIAC,Masculino,0,Não,60,DSL,2 Anos,58.54,3512.4,Não
+8109-YDLYV,Feminino,0,Sim,13,Não,1 Ano,31.84,413.92,Não
+1982-VIXAL,Feminino,1,Não,70,Fibra Ótica,2 Anos,53.04,3712.8,Não
+3756-FBZJP,Feminino,1,Sim,3,DSL,Mensal,106.92,320.76,Sim
+9523-CMKRL,Masculino,0,Não,24,DSL,1 Ano,47.56,1141.44,Não
+5347-PRZEZ,Feminino,0,Não,40,Não,2 Anos,100.12,4004.8,Não
+8630-JJLLS,Masculino,0,Não,8,DSL,Mensal,76.24,609.92,Não
+5464-IRPBK,Masculino,1,Não,10,Não,Mensal,88.88,888.8,Não
+4382-HJDAW,Feminino,0,Sim,17,DSL,1 Ano,93.58,1590.86,Não
+3199-PBMGM,Masculino,0,Sim,8,Fibra Ótica,Mensal,43.44,347.52,Não
+1292-NDWSJ,Masculino,0,Não,1,Fibra Ótica,Mensal,93.35,93.35,Sim
+7317-UHDKK,Feminino,0,Sim,21,Fibra Ótica,1 Ano,48.08,1009.68,Não
+5393-CENTY,Feminino,0,Não,2,Fibra Ótica,Mensal,109.26,218.52,Não
+8143-BUEPF,Masculino,0,Não,2,Fibra Ótica,Mensal,118.53,237.06,Não
+7134-YUVNC,Masculino,0,Não,11,Fibra Ótica,Mensal,103.39,1137.29,Sim
+4080-KQEFX,Masculino,0,Não,10,Não,Mensal,76.07,760.7,Não
+5278-DQKGJ,Masculino,0,Sim,26,Não,2 Anos,75.99,1975.74,Não
+7048-YJBZD,Feminino,1,Não,24,DSL,2 Anos,51.21,1229.04,Não
+1772-MECLS,Feminino,1,Sim,34,Fibra Ótica,2 Anos,98.09,3335.06,Não
+7724-HDXTX,Feminino,1,Não,12,Fibra Ótica,Mensal,105.78,1269.36,Sim
+8482-EHFBS,Masculino,1,Sim,14,DSL,1 Ano,83.59,1170.26,Não
+1745-ZAPXQ,Masculino,0,Não,10,Fibra Ótica,Mensal,111.58,1115.8,Não
+2852-OFDIM,Masculino,1,Sim,63,Fibra Ótica,2 Anos,33.67,2121.21,Não
+3415-HXYJS,Masculino,1,Não,12,Fibra Ótica,1 Ano,74.85,898.2,Não
+3476-UNZOQ,Feminino,1,Sim,4,Não,Mensal,46.36,185.44,Não
+2099-ZKBXY,Masculino,0,Não,9,Fibra Ótica,Mensal,94.79,853.11,Sim
+8427-GLCJG,Feminino,0,Não,43,DSL,2 Anos,43.82,1884.26,Não
+8595-OOMWR,Feminino,0,Sim,5,DSL,Mensal,105.69,528.45,Sim
+1900-LGEJZ,Masculino,0,Não,66,Não,2 Anos,92.62,6112.92,Não
+3518-QZUXS,Feminino,0,Não,64,DSL,2 Anos,85.47,5470.08,Não
+9765-NQFBH,Feminino,0,Sim,37,Fibra Ótica,2 Anos,117.43,4344.91,Não
+8753-DMKGV,Feminino,0,Não,5,Não,Mensal,91.61,458.05,Não
+6927-XUVAQ,Masculino,0,Não,4,DSL,Mensal,109.12,436.48,Não
+6719-XJWDX,Masculino,0,Sim,69,Fibra Ótica,2 Anos,34.96,2412.24,Não
+1322-SDEOD,Feminino,1,Não,60,DSL,2 Anos,109.47,6568.2,Não
+2514-YQUND,Masculino,0,Sim,2,Não,Mensal,77.79,155.58,Sim
+6776-XBHXK,Feminino,0,Não,7,DSL,Mensal,66.65,466.55,Não
+5070-DWPVX,Masculino,0,Sim,5,DSL,Mensal,118.16,590.8,Sim
+3213-LDVIG,Masculino,0,Sim,21,Não,1 Ano,36.82,773.22,Não
+6887-RCPHS,Masculino,1,Não,47,Fibra Ótica,2 Anos,101.57,4773.79,Não
+6907-FDQYK,Feminino,0,Não,23,Fibra Ótica,1 Ano,104.14,2395.22,Não
+3516-CQCWT,Feminino,0,Não,1,Fibra Ótica,Mensal,47.87,47.87,Sim
+2811-QMSFX,Masculino,0,Não,63,Não,2 Anos,101.76,6410.88,Não
+8035-CGZAE,Masculino,0,Não,8,Fibra Ótica,Mensal,35.03,280.24,Não
+5084-BUIRI,Masculino,0,Sim,11,DSL,Mensal,71.84,790.24,Não
+7218-NQDCJ,Masculino,0,Não,14,Não,1 Ano,55.95,783.3,Não
+9566-CLSAS,Feminino,1,Não,10,Fibra Ótica,Mensal,69.28,692.8,Não
+3199-SGMUF,Feminino,0,Sim,6,DSL,Mensal,89.25,535.5,Não
+1070-NOYQM,Masculino,0,Não,26,Não,2 Anos,38.2,993.2,Sim
+8383-GMUQM,Feminino,0,Não,10,DSL,Mensal,71.97,719.7,Não
+2534-FSZOP,Masculino,0,Sim,9,Fibra Ótica,Mensal,71.0,639.0,Sim
+8513-VABJG,Masculino,1,Não,10,Fibra Ótica,Mensal,85.96,859.6,Não
+3601-GDPVH,Masculino,0,Sim,20,Fibra Ótica,1 Ano,115.07,2301.4,Não
+5575-BANVT,Feminino,0,Sim,22,DSL,1 Ano,72.34,1591.48,Não
+4858-TJPXP,Masculino,0,Não,10,Não,Mensal,52.9,529.0,Não
+6392-REDJA,Masculino,0,Sim,12,Fibra Ótica,1 Ano,79.75,957.0,Não
+2023-FFQXH,Masculino,0,Não,13,Não,1 Ano,43.08,560.04,Não
+5409-GTZZD,Masculino,1,Não,4,Não,Mensal,113.1,452.4,Sim
+5964-XAXJB,Feminino,1,Não,9,DSL,Mensal,109.09,981.81,Não
+6410-ZVWPH,Masculino,1,Sim,24,Fibra Ótica,1 Ano,43.13,1035.12,Não
+1319-OOPYE,Feminino,0,Não,10,Não,Mensal,118.65,1186.5,Não
+4655-KJVZJ,Masculino,1,Não,1,Não,Mensal,98.75,98.75,Não
+3342-POKTX,Masculino,0,Não,20,Não,1 Ano,102.68,2053.6,Não
+5887-DNJNI,Feminino,1,Não,9,DSL,Mensal,115.86,1042.74,Não
+7412-NRJUK,Masculino,1,Não,61,DSL,2 Anos,83.34,5083.74,Não
+6134-NUWEC,Feminino,1,Sim,2,Fibra Ótica,Mensal,73.52,147.04,Sim
+2157-UXPBO,Masculino,0,Não,41,Fibra Ótica,2 Anos,94.17,3860.97,Não
+1865-SSBON,Feminino,0,Sim,27,Fibra Ótica,2 Anos,36.38,982.26,Não
+5676-UELNS,Feminino,0,Sim,12,Fibra Ótica,Mensal,101.19,1214.28,Não
+1740-QKWAO,Masculino,0,Não,58,Fibra Ótica,2 Anos,98.63,5720.54,Não
+4554-DJNHX,Masculino,0,Não,11,DSL,Mensal,63.81,701.91,Não
+1832-QJJRD,Feminino,0,Sim,23,Fibra Ótica,1 Ano,87.13,2003.99,Não
+3158-AIVNT,Feminino,0,Sim,35,Fibra Ótica,2 Anos,47.57,1664.95,Não
+3168-KGJWW,Feminino,0,Não,1,Fibra Ótica,Mensal,97.92,97.92,Sim
+9500-JUPPN,Feminino,0,Não,9,DSL,Mensal,93.95,845.55,Não
+1849-PUVPH,Masculino,1,Não,14,Não,1 Ano,115.75,1620.5,Não
+7965-LRSXX,Feminino,1,Não,2,DSL,Mensal,110.61,221.22,Sim
+4611-GXRPM,Masculino,0,Não,19,Fibra Ótica,1 Ano,80.67,1532.73,Não
+7705-TAOXQ,Masculino,0,Não,4,Fibra Ótica,Mensal,72.65,290.6,Sim
+6920-WOQSS,Feminino,0,Não,10,DSL,Mensal,111.3,1113.0,Sim
+5042-CQEIY,Masculino,0,Não,14,Fibra Ótica,1 Ano,55.64,778.96,Não
+5853-LXDQN,Feminino,0,Sim,12,Não,Mensal,97.69,1172.28,Não
+8638-MMZNQ,Masculino,0,Sim,66,Fibra Ótica,2 Anos,85.58,5648.28,Não
+4033-MPEEM,Feminino,0,Não,66,Não,2 Anos,74.77,4934.82,Não
+3539-LLDSE,Feminino,0,Não,65,Fibra Ótica,2 Anos,71.0,4615.0,Não
+7544-QSUET,Masculino,1,Sim,12,Fibra Ótica,1 Ano,31.32,375.84,Não
+2253-QMLML,Masculino,1,Sim,23,DSL,1 Ano,46.95,1079.85,Não
+5943-ETQVR,Feminino,1,Não,2,Fibra Ótica,Mensal,46.5,93.0,Sim
+9221-NVZFG,Feminino,0,Não,60,Não,2 Anos,50.03,3001.8,Não
+8356-CBIVU,Masculino,0,Não,16,Fibra Ótica,1 Ano,59.42,950.72,Não
+6185-TSZFP,Masculino,1,Não,10,DSL,Mensal,47.71,477.1,Não
+5490-BKACL,Masculino,0,Não,21,Fibra Ótica,1 Ano,107.11,2249.31,Não
+5010-NNMJC,Feminino,0,Sim,19,Fibra Ótica,1 Ano,49.96,949.24,Não
+9661-YBHFI,Masculino,0,Não,13,Não,1 Ano,114.44,1487.72,Não
+5298-TLSUT,Masculino,0,Sim,13,Fibra Ótica,1 Ano,43.83,569.79,Não
+8803-UPJWC,Masculino,0,Não,5,DSL,Mensal,100.74,503.7,Sim
+2582-ATZIR,Feminino,1,Sim,7,Fibra Ótica,Mensal,82.99,580.93,Sim
+9923-HDJVV,Masculino,1,Não,19,Fibra Ótica,1 Ano,110.88,2106.72,Não
+4937-JMQRD,Masculino,1,Sim,72,DSL,2 Anos,30.97,2229.84,Não
+3560-XJJDP,Feminino,0,Não,1,DSL,Mensal,40.95,40.95,Não
+6482-UZTRY,Feminino,0,Não,7,Não,Mensal,101.02,707.14,Não
+5711-GQSPE,Feminino,1,Sim,23,DSL,1 Ano,80.38,1848.74,Não
+9757-TIBEV,Feminino,1,Não,18,Fibra Ótica,1 Ano,119.47,2150.46,Sim
+7761-QTLFS,Feminino,0,Sim,10,Fibra Ótica,Mensal,55.81,558.1,Sim
+6024-XGZBD,Masculino,0,Não,1,DSL,Mensal,64.01,64.01,Sim
+3112-KUZKZ,Feminino,1,Sim,11,DSL,Mensal,38.02,418.22,Não
+7610-DLDEA,Masculino,0,Não,2,Não,Mensal,56.93,113.86,Sim
+4413-OYXEA,Feminino,0,Sim,33,DSL,2 Anos,51.2,1689.6,Não
+6367-REWOF,Feminino,0,Não,9,DSL,Mensal,41.75,375.75,Não
+3268-UHHZT,Feminino,1,Não,17,Fibra Ótica,1 Ano,112.7,1915.9,Não
+3979-RTXXN,Feminino,0,Não,22,DSL,1 Ano,92.66,2038.52,Não
+8537-SPKIE,Feminino,0,Sim,58,DSL,2 Anos,106.93,6201.94,Não
+5227-PKLPY,Masculino,0,Não,12,DSL,1 Ano,107.41,1288.92,Não
+2257-HGWKV,Feminino,0,Sim,10,Fibra Ótica,Mensal,117.32,1173.2,Sim
+2720-WQPID,Feminino,1,Sim,19,DSL,1 Ano,83.43,1585.17,Não
+2440-UMWEA,Feminino,1,Sim,16,Não,1 Ano,46.47,743.52,Não
+2334-HHYWL,Feminino,1,Não,2,Fibra Ótica,Mensal,101.47,202.94,Não
+9416-MCBSC,Feminino,0,Sim,11,Fibra Ótica,Mensal,94.66,1041.26,Sim
+9134-MSQPL,Feminino,0,Não,24,Fibra Ótica,1 Ano,118.28,2838.72,Não
+3253-BAXOI,Masculino,0,Sim,18,DSL,1 Ano,101.98,1835.64,Não
+4442-DCHVT,Feminino,0,Sim,57,DSL,2 Anos,34.15,1946.55,Não
+7545-UVZKG,Masculino,0,Não,21,DSL,1 Ano,103.14,2165.94,Não
+4253-GTLUS,Feminino,0,Não,25,Fibra Ótica,2 Anos,80.62,2015.5,Não
+4909-MJMWY,Masculino,1,Sim,6,Fibra Ótica,Mensal,37.73,226.38,Sim
+7214-JAYYY,Masculino,1,Sim,6,Não,Mensal,103.5,621.0,Não
+9408-NKODF,Feminino,0,Sim,54,DSL,2 Anos,63.98,3454.92,Não
+4155-GPBCT,Masculino,1,Não,24,Fibra Ótica,1 Ano,32.29,774.96,Não
+9112-ZHDZW,Masculino,1,Sim,11,DSL,Mensal,99.4,1093.4,Não
+6137-HNCVN,Feminino,0,Sim,10,DSL,Mensal,115.2,1152.0,Não
+3269-MNZOO,Masculino,1,Sim,12,DSL,Mensal,58.4,700.8,Não
+1251-KLEIU,Feminino,0,Não,12,Fibra Ótica,1 Ano,84.69,1016.28,Sim
+6359-VNGFO,Feminino,0,Sim,9,DSL,Mensal,119.56,1076.04,Não
+9193-TYWSA,Feminino,0,Não,6,Não,Mensal,97.36,584.16,Não
+9669-SQNFI,Masculino,1,Sim,8,Não,Mensal,88.24,705.92,Não
+5840-OIHDE,Feminino,0,Não,10,DSL,Mensal,100.93,1009.3,Não
+6535-JTRIF,Feminino,1,Não,21,DSL,1 Ano,85.13,1787.73,Não
+2342-JWRKO,Feminino,0,Sim,11,DSL,Mensal,103.64,1140.04,Não
+3290-ZXTUR,Feminino,0,Sim,37,Fibra Ótica,2 Anos,115.43,4270.91,Não
+3400-NSTIO,Feminino,0,Não,1,DSL,Mensal,92.42,92.42,Não
+9071-WNPFM,Masculino,1,Não,17,Fibra Ótica,1 Ano,74.47,1265.99,Não
+2572-KKEWC,Feminino,1,Não,10,Fibra Ótica,Mensal,115.6,1156.0,Não
+3904-NYJCD,Masculino,0,Sim,49,Fibra Ótica,2 Anos,34.77,1703.73,Não
+4049-GJNAX,Feminino,1,Sim,12,Fibra Ótica,Mensal,95.85,1150.2,Não
+8515-QMQFR,Feminino,0,Não,2,Fibra Ótica,Mensal,50.9,101.8,Sim
+9126-ECOKP,Feminino,0,Não,37,DSL,2 Anos,109.76,4061.12,Sim
+3023-UAFTE,Feminino,0,Não,4,Fibra Ótica,Mensal,91.53,366.12,Não
+5291-LNCDY,Masculino,0,Não,4,DSL,Mensal,50.28,201.12,Não
+9035-FBMAK,Feminino,0,Sim,5,DSL,Mensal,97.7,488.5,Sim
+8868-HRWOB,Masculino,0,Não,12,DSL,1 Ano,50.13,601.56,Não
+5457-OWNWG,Masculino,1,Sim,7,DSL,Mensal,119.29,835.03,Não
+1915-PUXDN,Feminino,1,Sim,9,DSL,Mensal,105.33,947.97,Não
+6576-HSQQM,Masculino,0,Não,8,DSL,Mensal,50.25,402.0,Não
+3265-CTDCW,Masculino,0,Sim,23,Fibra Ótica,1 Ano,38.6,887.8,Não
+3093-VPIWZ,Feminino,0,Não,9,Fibra Ótica,Mensal,64.04,576.36,Sim
+1817-RKAUN,Masculino,0,Sim,64,DSL,2 Anos,115.97,7422.08,Não
+4140-ITPUX,Masculino,0,Sim,51,DSL,2 Anos,67.02,3418.02,Não
+3588-EBGKU,Masculino,0,Não,28,DSL,2 Anos,73.26,2051.28,Não
+2890-VPHML,Masculino,0,Não,13,Fibra Ótica,1 Ano,58.19,756.47,Não
+7416-ECNGP,Feminino,1,Não,52,DSL,2 Anos,116.12,6038.24,Não
+7940-GQICR,Feminino,0,Não,18,Fibra Ótica,1 Ano,93.39,1681.02,Não
+4775-ECBPX,Masculino,0,Sim,20,DSL,1 Ano,72.76,1455.2,Não
+5694-LQDUC,Masculino,0,Não,65,Fibra Ótica,2 Anos,63.03,4096.95,Não
+8391-XPHVI,Masculino,0,Sim,13,Fibra Ótica,1 Ano,88.76,1153.88,Sim
+8585-OXTTI,Masculino,1,Sim,11,Fibra Ótica,Mensal,98.7,1085.7,Sim
+8712-DEAYW,Masculino,1,Sim,11,Fibra Ótica,Mensal,33.44,367.84,Sim
+5029-CJMPX,Masculino,0,Não,10,DSL,Mensal,31.6,316.0,Não
+9464-JZIZT,Masculino,0,Sim,1,Não,Mensal,94.31,94.31,Sim
+5257-ICGQT,Feminino,0,Sim,3,DSL,Mensal,65.51,196.53,Sim
+4463-ZLPCF,Masculino,0,Sim,2,DSL,Mensal,31.09,62.18,Não
+7796-OXOLI,Masculino,0,Sim,3,Fibra Ótica,Mensal,72.79,218.37,Sim
+7314-QNAQB,Masculino,0,Não,1,Fibra Ótica,Mensal,81.89,81.89,Não
+7787-ZJPOR,Feminino,0,Sim,14,DSL,1 Ano,46.51,651.14,Não
+9364-WNEOP,Feminino,1,Não,57,Fibra Ótica,2 Anos,79.5,4531.5,Não
+5165-WZSRR,Feminino,1,Sim,3,Fibra Ótica,Mensal,57.78,173.34,Sim
+2361-HWRMY,Masculino,0,Sim,9,DSL,Mensal,99.28,893.52,Não
+4266-KRDPL,Masculino,0,Não,7,Não,Mensal,56.83,397.81,Não
+6496-UVVJX,Masculino,0,Não,9,Fibra Ótica,Mensal,116.87,1051.83,Sim
+1654-CYGJR,Masculino,1,Sim,4,Fibra Ótica,Mensal,44.39,177.56,Não
+6506-FFPCT,Masculino,0,Sim,42,DSL,2 Anos,43.9,1843.8,Não
+6696-STWTH,Masculino,0,Sim,35,DSL,2 Anos,81.07,2837.45,Sim
+4128-JXVAY,Masculino,0,Sim,67,Fibra Ótica,2 Anos,82.95,5557.65,Não
+1582-TIBGI,Masculino,0,Sim,5,Não,Mensal,31.2,156.0,Sim
+6511-ROMEW,Masculino,0,Não,10,Fibra Ótica,Mensal,105.34,1053.4,Sim
+2334-TZJFA,Feminino,0,Sim,65,DSL,2 Anos,61.1,3971.5,Não
+7178-MMOFN,Masculino,0,Sim,3,Fibra Ótica,Mensal,102.01,306.03,Sim
+2991-KGLPG,Masculino,0,Sim,4,Fibra Ótica,Mensal,74.02,296.08,Não
+6401-CGOVM,Masculino,0,Não,26,Fibra Ótica,2 Anos,56.68,1473.68,Não
+8192-UETDR,Masculino,0,Não,33,Fibra Ótica,2 Anos,39.64,1308.12,Não
+1435-JRYJV,Feminino,0,Não,12,Fibra Ótica,1 Ano,43.98,527.76,Não
+8062-BFJUV,Feminino,0,Sim,48,Não,2 Anos,75.68,3632.64,Não
+1378-CGDDT,Masculino,0,Não,5,Não,Mensal,51.14,255.7,Sim
+5533-TUUKE,Feminino,0,Sim,9,Não,Mensal,40.61,365.49,Não
+4146-PPLVG,Feminino,0,Sim,5,DSL,Mensal,89.04,445.2,Não
+5112-JJFQJ,Masculino,0,Não,12,Fibra Ótica,Mensal,101.71,1220.52,Não
+6688-IYCMH,Masculino,0,Sim,15,DSL,1 Ano,119.19,1787.85,Não
+1536-WDTLF,Masculino,0,Sim,9,Fibra Ótica,Mensal,62.05,558.45,Sim
+3957-CNZRL,Feminino,1,Sim,22,Fibra Ótica,1 Ano,52.56,1156.32,Não
+3393-HICVY,Masculino,0,Não,21,DSL,1 Ano,45.55,956.55,Não
+4754-NWBZB,Masculino,0,Não,3,Não,Mensal,67.96,203.88,Sim
+9262-HZEPK,Feminino,0,Sim,12,Fibra Ótica,Mensal,84.18,1010.16,Sim
+6963-DCZWG,Masculino,0,Não,69,Fibra Ótica,2 Anos,109.57,7560.33,Não
+3814-ZFGDL,Masculino,0,Sim,61,Fibra Ótica,2 Anos,35.06,2138.66,Não
+6632-XLQMC,Feminino,0,Não,9,Não,Mensal,99.25,893.25,Não
+2032-LDIOT,Feminino,1,Sim,40,Fibra Ótica,2 Anos,108.91,4356.4,Não
+8425-GKOLN,Feminino,0,Não,35,DSL,2 Anos,111.04,3886.4,Não
+7108-ITCDC,Feminino,0,Sim,11,Não,Mensal,87.64,964.04,Não
+5779-BZFQI,Masculino,0,Não,6,Fibra Ótica,Mensal,84.43,506.58,Não
+5946-BJXZA,Masculino,0,Não,10,Não,Mensal,51.01,510.1,Não
+2368-IOXAA,Feminino,0,Sim,9,Fibra Ótica,Mensal,56.12,505.08,Sim
+1064-DAFZQ,Masculino,0,Não,12,DSL,Mensal,99.69,1196.28,Não
+8157-YMEBW,Masculino,0,Sim,24,DSL,1 Ano,97.94,2350.56,Não
+3964-EHZBT,Feminino,0,Sim,12,Fibra Ótica,Mensal,40.09,481.08,Sim
+8742-ZIVSQ,Masculino,0,Não,21,Fibra Ótica,1 Ano,100.21,2104.41,Não
+8340-ISIUC,Masculino,0,Sim,5,DSL,Mensal,110.78,553.9,Sim
+7341-LINHC,Masculino,0,Sim,18,Fibra Ótica,1 Ano,32.46,584.28,Não
+8472-VGILO,Masculino,0,Não,6,DSL,Mensal,46.37,278.22,Não
+5957-CFZNA,Feminino,0,Sim,17,DSL,1 Ano,52.94,899.98,Não
+3740-FMHSG,Feminino,0,Não,6,Fibra Ótica,Mensal,110.82,664.92,Sim
+5498-IBUBX,Masculino,0,Não,41,Fibra Ótica,2 Anos,111.61,4576.01,Não
+8413-OZEKA,Feminino,0,Sim,11,Fibra Ótica,Mensal,38.56,424.16,Sim
+9999-PAOSZ,Feminino,0,Não,53,Fibra Ótica,2 Anos,42.91,2274.23,Não
+5413-NKDKP,Masculino,1,Não,36,Fibra Ótica,2 Anos,91.52,3294.72,Não
+9955-QERDM,Masculino,0,Sim,12,Fibra Ótica,Mensal,61.11,733.32,Não
+1325-FNCYD,Feminino,0,Não,8,DSL,Mensal,105.64,845.12,Não
+6844-KFUZA,Masculino,0,Sim,9,Fibra Ótica,Mensal,39.26,353.34,Sim
+2544-FMPBY,Masculino,0,Não,12,Não,Mensal,62.3,747.6,Não
+2051-RXNGM,Feminino,0,Não,13,Fibra Ótica,1 Ano,100.0,1300.0,Não
+9868-YJNTM,Feminino,0,Sim,33,Fibra Ótica,2 Anos,96.16,3173.28,Não
+5053-HOKGC,Masculino,0,Sim,19,Não,1 Ano,82.69,1571.11,Não
+7330-SLRLM,Feminino,0,Não,16,Fibra Ótica,1 Ano,49.7,795.2,Não
+7888-BTHEV,Masculino,1,Sim,4,Não,Mensal,31.56,126.24,Sim
+2369-ZMQCX,Feminino,1,Sim,13,Não,1 Ano,118.76,1543.88,Não
+2166-WQCRT,Feminino,0,Sim,5,Não,Mensal,89.06,445.3,Não
+6067-DFCIO,Feminino,0,Sim,33,Não,2 Anos,55.54,1832.82,Não
+6357-RRQUR,Masculino,0,Não,17,DSL,1 Ano,57.37,975.29,Não
+4832-ANBCV,Feminino,1,Sim,9,Fibra Ótica,Mensal,67.39,606.51,Sim
+5235-TYTOK,Feminino,0,Não,17,Fibra Ótica,1 Ano,79.2,1346.4,Não
+3858-LTBGS,Masculino,0,Não,2,Fibra Ótica,Mensal,107.37,214.74,Sim
+7214-OEKYW,Masculino,0,Não,6,Não,Mensal,119.11,714.66,Não
+7839-VCZIL,Masculino,0,Sim,10,DSL,Mensal,42.12,421.2,Sim
+6624-NBGOS,Feminino,0,Não,1,Não,Mensal,99.78,99.78,Não
+1756-VKRCC,Feminino,0,Sim,9,DSL,Mensal,110.77,996.93,Não
+6689-FYWOU,Feminino,0,Sim,10,Fibra Ótica,Mensal,46.41,464.1,Não
+4153-IVVVS,Feminino,0,Sim,4,Fibra Ótica,Mensal,98.85,395.4,Sim
+4357-YPBEX,Feminino,1,Sim,70,Fibra Ótica,2 Anos,67.56,4729.2,Não
+5185-VTMCP,Feminino,0,Não,19,Não,1 Ano,100.57,1910.83,Não
+6955-OXLQX,Masculino,0,Sim,10,DSL,Mensal,30.44,304.4,Não
+6721-EEPBG,Masculino,1,Não,49,DSL,2 Anos,106.57,5221.93,Não
+8283-MBUWU,Feminino,0,Não,23,Fibra Ótica,1 Ano,118.99,2736.77,Não
+5267-OAHMP,Feminino,1,Não,18,Não,1 Ano,82.55,1485.9,Sim
+5818-UQOVM,Masculino,0,Não,33,Não,2 Anos,39.99,1319.67,Não
+5278-GLATO,Feminino,0,Não,5,Fibra Ótica,Mensal,84.18,420.9,Não
+6297-GCEFG,Masculino,1,Sim,22,Fibra Ótica,1 Ano,115.05,2531.1,Não
+5946-JWOAJ,Masculino,1,Não,4,Fibra Ótica,Mensal,93.88,375.52,Sim
+2790-QRUNX,Feminino,1,Sim,21,Fibra Ótica,1 Ano,45.31,951.51,Não
+9449-NJJSC,Masculino,1,Não,12,Fibra Ótica,Mensal,76.89,922.68,Sim
+7345-NSLFP,Feminino,0,Não,2,Não,Mensal,88.24,176.48,Sim
+6147-HBRTC,Feminino,1,Não,5,Fibra Ótica,Mensal,90.49,452.45,Sim
+1914-JGPCA,Feminino,0,Não,2,DSL,Mensal,119.73,239.46,Não
+8740-GVYHX,Feminino,1,Sim,10,Fibra Ótica,Mensal,78.33,783.3,Não
+5800-KWRDA,Masculino,0,Sim,51,Fibra Ótica,2 Anos,101.31,5166.81,Não
+9699-QKWCK,Masculino,1,Não,5,Fibra Ótica,Mensal,38.44,192.2,Sim
+6719-BUBVD,Feminino,1,Não,2,Fibra Ótica,Mensal,36.34,72.68,Sim
+4551-MKWDH,Feminino,1,Não,5,DSL,Mensal,92.51,462.55,Sim
+1884-XERNZ,Feminino,1,Sim,7,Fibra Ótica,Mensal,88.19,617.33,Sim
+2366-KEHRM,Masculino,0,Sim,57,DSL,2 Anos,75.76,4318.32,Não
+1986-XSOKK,Masculino,0,Sim,42,Fibra Ótica,2 Anos,88.45,3714.9,Não
+3480-NJTRQ,Feminino,1,Não,3,Fibra Ótica,Mensal,111.66,334.98,Sim
+9661-OSVCZ,Feminino,1,Não,21,DSL,1 Ano,64.45,1353.45,Não
+3666-PXSLR,Masculino,1,Sim,12,Fibra Ótica,1 Ano,106.06,1272.72,Não
+9485-FCBKC,Masculino,0,Sim,4,Fibra Ótica,Mensal,103.72,414.88,Não
+8899-PJYVD,Masculino,0,Não,2,Fibra Ótica,Mensal,99.28,198.56,Sim
+2351-INEKZ,Feminino,0,Não,12,Fibra Ótica,Mensal,63.34,760.08,Não
+6631-KVMAF,Masculino,0,Não,11,Não,Mensal,50.6,556.6,Não
+4089-BPJGE,Masculino,0,Sim,6,Não,Mensal,34.37,206.22,Sim
+3272-OAARM,Feminino,0,Não,21,DSL,1 Ano,56.78,1192.38,Não
+6717-TDQGD,Feminino,0,Não,58,Fibra Ótica,2 Anos,70.93,4113.94,Não
+7975-DECKI,Masculino,1,Não,3,Fibra Ótica,Mensal,101.15,303.45,Sim
+1608-TLDZI,Masculino,1,Sim,6,Fibra Ótica,Mensal,98.1,588.6,Sim
+5514-UXDZY,Feminino,1,Sim,5,Fibra Ótica,Mensal,96.65,483.25,Não
+2825-SXDTG,Feminino,0,Sim,38,DSL,2 Anos,103.25,3923.5,Não
+9391-NVVYA,Masculino,0,Não,12,DSL,Mensal,119.08,1428.96,Não
+1185-AFMXJ,Feminino,0,Não,5,DSL,Mensal,100.39,501.95,Sim
+4508-ONHOU,Masculino,1,Não,4,Não,Mensal,105.0,420.0,Sim
+9363-QWNIK,Masculino,0,Não,7,Não,Mensal,67.44,472.08,Não
+9354-WIGRW,Feminino,0,Não,23,DSL,1 Ano,113.43,2608.89,Não
+4349-SKLGW,Masculino,0,Sim,10,Fibra Ótica,Mensal,82.37,823.7,Sim
+1722-XGTZO,Masculino,0,Não,10,Fibra Ótica,Mensal,114.03,1140.3,Sim
+6896-THOHI,Masculino,0,Não,8,DSL,Mensal,112.7,901.6,Não
+5699-NWXAT,Masculino,0,Sim,8,Fibra Ótica,Mensal,106.72,853.76,Sim
+9966-GMHNZ,Feminino,0,Não,10,Não,Mensal,69.19,691.9,Não
+8381-DUZEA,Feminino,1,Sim,32,DSL,2 Anos,83.5,2672.0,Não
+1682-XUNST,Masculino,0,Não,4,DSL,Mensal,97.51,390.04,Sim
+7265-DDQFF,Feminino,0,Sim,22,Fibra Ótica,1 Ano,63.05,1387.1,Não
+9444-FAIEX,Feminino,1,Não,41,Fibra Ótica,2 Anos,108.41,4444.81,Não
+2179-YMGCD,Masculino,0,Sim,6,DSL,Mensal,57.86,347.16,Não
+1675-ODNBG,Masculino,0,Não,57,DSL,2 Anos,77.54,4419.78,Não
+1198-TBXRH,Feminino,1,Sim,3,DSL,Mensal,89.94,269.82,Não
+2626-DOBDG,Masculino,0,Não,18,DSL,1 Ano,95.07,1711.26,Não
+6487-WOLDN,Feminino,0,Não,20,Fibra Ótica,1 Ano,35.29,705.8,Não
+7557-FTEQI,Masculino,0,Sim,47,DSL,2 Anos,90.08,4233.76,Não
+2563-VDGTM,Feminino,1,Não,3,Não,Mensal,87.7,263.1,Sim
+4671-VKIFB,Feminino,1,Sim,12,DSL,Mensal,96.35,1156.2,Não
+6194-BBASI,Masculino,1,Sim,2,Fibra Ótica,Mensal,69.49,138.98,Sim
+3471-SKNOI,Feminino,1,Não,12,DSL,1 Ano,98.16,1177.92,Não
+9075-QZCTO,Feminino,0,Sim,20,Fibra Ótica,1 Ano,97.51,1950.2,Não
+3247-NJYZP,Feminino,0,Sim,57,Fibra Ótica,2 Anos,106.94,6095.58,Não
+1618-JFOCI,Masculino,1,Não,12,DSL,Mensal,76.77,921.24,Não
+3132-ORSZV,Masculino,0,Sim,8,Fibra Ótica,Mensal,118.3,946.4,Não
+5133-GGQIF,Feminino,0,Sim,21,DSL,1 Ano,118.66,2491.86,Não
+5119-ULRDV,Feminino,0,Não,22,Fibra Ótica,1 Ano,103.55,2278.1,Não
+9153-JSWXL,Feminino,1,Sim,7,Fibra Ótica,Mensal,119.69,837.83,Não
+9552-GRSBO,Feminino,1,Não,24,Fibra Ótica,1 Ano,113.34,2720.16,Não
+9872-QIFZI,Masculino,0,Sim,57,Fibra Ótica,2 Anos,105.43,6009.51,Não
+2813-PMTFN,Masculino,0,Não,18,DSL,1 Ano,38.15,686.7,Não
+9103-QLQLW,Feminino,0,Sim,21,Não,1 Ano,77.66,1630.86,Não
+6291-DTSSG,Feminino,0,Sim,1,DSL,Mensal,75.83,75.83,Não
+3889-QWQVT,Masculino,0,Não,19,DSL,1 Ano,98.39,1869.41,Não
+3538-PAHKF,Masculino,0,Não,12,Fibra Ótica,Mensal,35.45,425.4,Não
+2230-PJVCX,Feminino,0,Não,27,Fibra Ótica,2 Anos,104.9,2832.3,Não
+3007-GZNAR,Feminino,1,Não,4,DSL,Mensal,64.29,257.16,Sim
+9395-BYXXP,Masculino,0,Sim,53,Não,2 Anos,62.31,3302.43,Não
+8498-JIDNU,Feminino,0,Não,10,Não,Mensal,34.42,344.2,Não
+5261-BJOAD,Masculino,0,Sim,41,Fibra Ótica,2 Anos,43.82,1796.62,Não
+1029-TNCJE,Masculino,0,Sim,37,DSL,2 Anos,82.75,3061.75,Não
+9697-YSHMS,Feminino,0,Sim,5,Não,Mensal,51.2,256.0,Sim
+4346-FFYPN,Feminino,0,Não,1,Não,Mensal,90.59,90.59,Não
+5207-TSJDG,Feminino,0,Não,7,Não,Mensal,83.95,587.65,Não
+2631-XSSNY,Masculino,0,Sim,63,Não,2 Anos,112.75,7103.25,Não
+7315-JPKQI,Feminino,1,Não,4,DSL,Mensal,115.3,461.2,Sim
+3167-NKMHE,Masculino,0,Não,10,DSL,Mensal,78.07,780.7,Não
+7438-AMVNF,Feminino,0,Sim,47,DSL,2 Anos,67.04,3150.88,Não
+2072-SKLNX,Masculino,0,Sim,12,Fibra Ótica,Mensal,74.73,896.76,Não
+8271-JXQAU,Masculino,0,Não,24,DSL,1 Ano,70.38,1689.12,Não
+6687-QNMTY,Feminino,0,Sim,9,Fibra Ótica,Mensal,110.98,998.82,Não
+1073-NQMER,Masculino,0,Sim,14,Fibra Ótica,1 Ano,30.92,432.88,Não
+9642-ZGTWR,Masculino,1,Não,1,DSL,Mensal,111.45,111.45,Sim
+8514-RMSDC,Masculino,1,Não,18,DSL,1 Ano,63.71,1146.78,Não
+5344-PYNNT,Masculino,0,Sim,41,DSL,2 Anos,107.68,4414.88,Não
+1192-ABTZJ,Feminino,0,Sim,5,Não,Mensal,44.81,224.05,Não
+1436-GEAMB,Masculino,0,Não,34,Fibra Ótica,2 Anos,71.0,2414.0,Não
+5316-RSRNW,Feminino,0,Não,8,DSL,Mensal,90.14,721.12,Não
+7374-XCBSN,Masculino,0,Não,51,DSL,2 Anos,89.23,4550.73,Não
+8323-QTOBE,Masculino,0,Sim,3,Não,Mensal,72.64,217.92,Não
+9904-FSWIM,Masculino,0,Sim,24,Fibra Ótica,2 Anos,60.62,1454.88,Não
+9674-ERKLV,Feminino,0,Sim,57,Fibra Ótica,2 Anos,84.14,4795.98,Não
+6578-XLWJH,Feminino,0,Não,24,DSL,1 Ano,99.9,2397.6,Não
+7518-DYREV,Masculino,0,Sim,9,DSL,Mensal,37.71,339.39,Não
+5724-YEHSC,Masculino,0,Não,26,DSL,2 Anos,35.21,915.46,Não
+5891-KUKPK,Feminino,0,Não,15,DSL,1 Ano,80.09,1201.35,Não
+8529-TENGY,Feminino,1,Não,44,Fibra Ótica,2 Anos,73.59,3237.96,Não
+9114-HHMJL,Feminino,1,Sim,8,Fibra Ótica,Mensal,45.37,362.96,Sim
+1315-LACQN,Feminino,0,Sim,10,Fibra Ótica,Mensal,49.45,494.5,Sim
+7452-IYCCA,Masculino,0,Não,3,Não,Mensal,89.54,268.62,Sim
+8912-ORGKC,Masculino,0,Não,9,Fibra Ótica,Mensal,32.77,294.93,Sim
+9196-PGTGW,Feminino,0,Não,23,DSL,1 Ano,77.1,1773.3,Sim
+2793-TSVPG,Feminino,0,Não,23,DSL,1 Ano,91.73,2109.79,Não
+1295-KQKOD,Masculino,1,Não,32,Fibra Ótica,2 Anos,78.59,2514.88,Não
+7849-WUHWV,Masculino,0,Sim,22,Não,1 Ano,115.35,2537.7,Sim
+8837-VREHE,Masculino,0,Sim,19,Fibra Ótica,1 Ano,117.65,2235.35,Não
+2825-IMQIG,Masculino,0,Sim,66,Fibra Ótica,2 Anos,73.88,4876.08,Não
+6115-EDKGQ,Feminino,0,Sim,12,Fibra Ótica,Mensal,92.55,1110.6,Sim
+3562-EYJCS,Feminino,0,Sim,3,DSL,Mensal,42.7,128.1,Não
+4031-XKVTS,Masculino,1,Não,22,Fibra Ótica,1 Ano,79.99,1759.78,Não
+1387-KIKAG,Feminino,0,Não,1,Fibra Ótica,Mensal,62.29,62.29,Sim
+7223-FOZMG,Masculino,1,Não,70,DSL,2 Anos,53.46,3742.2,Não
+8174-OYBGS,Masculino,0,Sim,19,Não,1 Ano,108.63,2063.97,Não
+2046-PVHNP,Masculino,0,Não,41,Fibra Ótica,2 Anos,42.44,1740.04,Não
+8923-SCPXH,Masculino,0,Sim,7,Fibra Ótica,Mensal,116.74,817.18,Não
+9782-TOLJR,Feminino,1,Sim,45,Fibra Ótica,2 Anos,49.28,2217.6,Não
+4628-SUNZZ,Masculino,0,Sim,1,DSL,Mensal,80.71,80.71,Não
+3150-SABDP,Masculino,1,Sim,6,Fibra Ótica,Mensal,49.7,298.2,Sim
+9699-DBVZV,Masculino,0,Sim,20,Fibra Ótica,1 Ano,79.6,1592.0,Não
+6522-WKLPY,Feminino,0,Sim,13,DSL,1 Ano,30.04,390.52,Não
+1516-QNWAB,Masculino,0,Não,5,DSL,Mensal,88.56,442.8,Sim
+6860-QISBF,Masculino,0,Não,19,Fibra Ótica,1 Ano,57.59,1094.21,Não
+3379-JRVRO,Feminino,0,Sim,37,DSL,2 Anos,82.71,3060.27,Não
+3043-FWRDE,Masculino,0,Não,16,DSL,1 Ano,66.03,1056.48,Não
+6730-DSRKJ,Feminino,0,Sim,1,Fibra Ótica,Mensal,112.66,112.66,Não
+3463-DUWMO,Masculino,1,Sim,16,Fibra Ótica,1 Ano,78.39,1254.24,Não
+9850-ZJBYI,Masculino,0,Não,5,Fibra Ótica,Mensal,118.44,592.2,Não
+5103-YHFWE,Feminino,0,Não,21,Fibra Ótica,1 Ano,44.17,927.57,Não
+7259-OVUQH,Masculino,0,Sim,12,DSL,Mensal,68.66,823.92,Não
+1776-LUGIP,Masculino,0,Não,22,DSL,1 Ano,92.32,2031.04,Não
+4600-WWPWQ,Masculino,1,Não,2,Fibra Ótica,Mensal,107.17,214.34,Não
+9541-CDRLB,Masculino,0,Sim,11,Fibra Ótica,Mensal,56.78,624.58,Sim
+3920-ORXDW,Masculino,0,Não,22,Fibra Ótica,1 Ano,68.92,1516.24,Sim
+9604-XGNVQ,Masculino,0,Sim,57,DSL,2 Anos,117.4,6691.8,Não
+9208-SQKSR,Masculino,1,Sim,20,DSL,1 Ano,43.27,865.4,Não
+7147-WTGWL,Masculino,0,Sim,3,Fibra Ótica,Mensal,77.73,233.19,Sim
+2816-HZQKG,Feminino,0,Sim,10,DSL,Mensal,73.16,731.6,Não
+1270-GVPYF,Masculino,0,Sim,7,DSL,Mensal,40.94,286.58,Não
+1236-MPNQU,Feminino,1,Não,18,DSL,1 Ano,49.71,894.78,Não
+2708-CGRXC,Feminino,0,Sim,46,Fibra Ótica,2 Anos,110.93,5102.78,Não
+8046-PBFQT,Feminino,0,Não,66,DSL,2 Anos,58.99,3893.34,Não
+9951-TYUUU,Feminino,1,Sim,11,Fibra Ótica,Mensal,113.81,1251.91,Sim
+9517-YUFOE,Feminino,0,Sim,8,Fibra Ótica,Mensal,38.6,308.8,Sim
+8022-NNPGN,Masculino,0,Sim,62,DSL,2 Anos,34.23,2122.26,Não
+4517-QKWIB,Feminino,0,Não,6,Não,Mensal,63.26,379.56,Não
+8986-ZUBEN,Feminino,0,Não,42,Fibra Ótica,2 Anos,93.33,3919.86,Não
+5588-ADFKP,Feminino,1,Sim,17,DSL,1 Ano,35.36,601.12,Não
+7795-JEGKT,Masculino,0,Sim,11,Fibra Ótica,Mensal,105.46,1160.06,Sim
+3884-UKGZZ,Masculino,0,Sim,55,Fibra Ótica,2 Anos,74.8,4114.0,Não
+1936-HAQGQ,Feminino,0,Não,7,Fibra Ótica,Mensal,71.0,497.0,Sim
+5819-JPOWH,Feminino,0,Não,6,Não,Mensal,114.52,687.12,Não
+9398-VKXAI,Feminino,0,Sim,13,Fibra Ótica,1 Ano,79.26,1030.38,Não
+3231-IQYXT,Masculino,0,Sim,3,DSL,Mensal,70.15,210.45,Não
+3655-OTHWU,Feminino,1,Sim,6,Fibra Ótica,Mensal,41.34,248.04,Sim
+6825-DLAXZ,Feminino,0,Sim,24,Fibra Ótica,1 Ano,75.7,1816.8,Não
+6564-HYIQN,Feminino,0,Não,8,Fibra Ótica,Mensal,99.53,796.24,Não
+1802-YPKJM,Feminino,0,Sim,25,Fibra Ótica,2 Anos,50.38,1259.5,Sim
+5103-YRZXP,Masculino,1,Sim,20,Não,1 Ano,99.78,1995.6,Não
+6870-EYLCN,Masculino,0,Sim,10,Fibra Ótica,Mensal,48.81,488.1,Sim
+2978-YWPDS,Masculino,0,Sim,25,DSL,2 Anos,109.96,2749.0,Não
+8896-WEPJX,Masculino,0,Sim,2,Não,Mensal,77.39,154.78,Sim
+8560-MDTTU,Masculino,0,Sim,35,Não,2 Anos,33.63,1177.05,Não
+5281-JWMYC,Feminino,0,Não,62,Fibra Ótica,2 Anos,61.43,3808.66,Não
+3981-ZXLHZ,Feminino,0,Sim,61,Fibra Ótica,2 Anos,76.31,4654.91,Não
+9765-QDYEC,Feminino,0,Não,12,DSL,1 Ano,77.67,932.04,Não
+9373-BWUOL,Feminino,1,Sim,24,Não,1 Ano,79.48,1907.52,Sim
+9161-VIFIG,Feminino,0,Sim,10,Não,Mensal,99.19,991.9,Não
+7416-BWWRH,Masculino,0,Sim,20,Não,1 Ano,53.19,1063.8,Não
+8822-DJANH,Masculino,0,Sim,48,Fibra Ótica,2 Anos,99.29,4765.92,Sim
+5189-PGECZ,Feminino,0,Não,9,Não,Mensal,55.51,499.59,Não
+3953-FUPOX,Feminino,0,Sim,7,DSL,Mensal,76.79,537.53,Não
+2992-KFEOY,Masculino,0,Não,12,DSL,1 Ano,81.76,981.12,Não
+8502-JPSRH,Feminino,0,Sim,4,DSL,Mensal,78.37,313.48,Sim
+4166-ECZQU,Masculino,0,Não,42,Fibra Ótica,2 Anos,49.17,2065.14,Não
+2299-DTMOM,Masculino,0,Não,10,DSL,Mensal,37.27,372.7,Não
+9208-UNRXC,Masculino,0,Sim,18,DSL,1 Ano,79.16,1424.88,Não
+8426-FAOZM,Feminino,0,Não,24,Fibra Ótica,2 Anos,69.42,1666.08,Não
+7082-YZKGJ,Masculino,0,Sim,24,Não,1 Ano,63.86,1532.64,Não
+9754-ZSARK,Feminino,0,Sim,8,Fibra Ótica,Mensal,101.1,808.8,Sim
+3481-KDCMQ,Masculino,0,Sim,53,Fibra Ótica,2 Anos,33.62,1781.86,Não
+2487-GQZWK,Masculino,0,Não,8,Fibra Ótica,Mensal,59.95,479.6,Não
+3002-IRNPW,Feminino,0,Não,54,Fibra Ótica,2 Anos,43.75,2362.5,Não
+4240-DUSTD,Feminino,0,Sim,62,DSL,2 Anos,84.01,5208.62,Não
+5407-YLAWA,Masculino,0,Não,12,Não,1 Ano,92.76,1113.12,Não
+6020-SAKIV,Masculino,0,Não,1,Fibra Ótica,Mensal,85.13,85.13,Não
+5148-GTYIX,Masculino,0,Sim,40,Fibra Ótica,2 Anos,103.8,4152.0,Não
+1032-QJSMP,Masculino,0,Sim,6,DSL,Mensal,119.78,718.68,Não
+9084-MONUO,Feminino,0,Sim,15,DSL,1 Ano,32.8,492.0,Não
+5164-DNQYZ,Feminino,0,Sim,60,DSL,2 Anos,31.37,1882.2,Não
+4342-HNIWN,Masculino,0,Não,10,Não,Mensal,53.81,538.1,Não
+2917-XJLOJ,Masculino,0,Sim,53,Fibra Ótica,2 Anos,38.13,2020.89,Sim
+6209-SOZLJ,Feminino,0,Não,2,Fibra Ótica,Mensal,102.53,205.06,Não
+8495-CKEUO,Masculino,0,Sim,20,Fibra Ótica,1 Ano,42.22,844.4,Não
+9443-TXWTK,Feminino,0,Não,3,Fibra Ótica,Mensal,117.8,353.4,Sim
+5484-GNKXK,Masculino,0,Sim,6,DSL,Mensal,35.43,212.58,Não
+5902-OMCUI,Masculino,0,Sim,3,Não,Mensal,114.35,343.05,Sim
+5350-ILRTD,Masculino,1,Não,3,DSL,Mensal,80.18,240.54,Sim
+7575-ZWTJM,Feminino,1,Sim,9,Não,Mensal,67.85,610.65,Não
+5315-PXPOX,Feminino,1,Não,62,Fibra Ótica,2 Anos,63.93,3963.66,Sim
+3165-GRSWG,Masculino,1,Não,12,Fibra Ótica,Mensal,63.95,767.4,Sim
+6207-CYFRI,Feminino,0,Sim,33,Fibra Ótica,2 Anos,33.38,1101.54,Sim
+4258-XOALK,Masculino,0,Não,30,Fibra Ótica,2 Anos,46.34,1390.2,Não
+3768-RPVUX,Feminino,0,Sim,48,DSL,2 Anos,119.84,5752.32,Não
+3506-CEPTC,Masculino,1,Sim,1,Fibra Ótica,Mensal,84.78,84.78,Não
+4641-CCWLR,Masculino,0,Não,6,Não,Mensal,91.53,549.18,Não
+4378-PLWZP,Feminino,0,Sim,58,Fibra Ótica,2 Anos,87.08,5050.64,Não
+4365-IEEVA,Feminino,0,Sim,1,DSL,Mensal,118.84,118.84,Sim
+4971-JVMJR,Feminino,0,Não,19,Fibra Ótica,1 Ano,75.05,1425.95,Não
+9971-OLKAJ,Masculino,1,Sim,54,Fibra Ótica,2 Anos,94.18,5085.72,Não
+6059-QJVKP,Masculino,0,Sim,5,Fibra Ótica,Mensal,57.3,286.5,Sim
+8300-VGQUI,Feminino,1,Não,24,DSL,1 Ano,108.39,2601.36,Não
+3736-OTSXL,Feminino,0,Não,66,Fibra Ótica,2 Anos,93.63,6179.58,Não
+4690-YGYBT,Masculino,0,Sim,14,DSL,1 Ano,107.41,1503.74,Não
+3899-UGVLU,Feminino,1,Sim,9,Não,Mensal,30.96,278.64,Não
+9536-TDKNF,Feminino,0,Sim,9,Fibra Ótica,Mensal,48.53,436.77,Sim
+8736-RHRMH,Masculino,0,Não,3,DSL,Mensal,74.64,223.92,Sim
+4342-AXYGV,Feminino,1,Sim,25,Fibra Ótica,2 Anos,83.85,2096.25,Não
+5668-GEULO,Masculino,0,Não,6,DSL,Mensal,37.94,227.64,Não
+3170-DKGGV,Feminino,0,Não,8,Fibra Ótica,Mensal,96.42,771.36,Sim
+2072-KSTDJ,Masculino,1,Sim,6,DSL,Mensal,47.43,284.58,Não
+1911-DINQX,Masculino,0,Não,23,Fibra Ótica,1 Ano,87.52,2012.96,Sim
+7493-RCJOF,Feminino,0,Não,17,DSL,1 Ano,116.72,1984.24,Não
+4916-GKTBF,Masculino,1,Sim,23,DSL,1 Ano,105.73,2431.79,Não
+8144-ILISS,Feminino,0,Sim,54,Não,2 Anos,54.14,2923.56,Não
+8963-FZBPW,Feminino,0,Não,8,Não,Mensal,44.31,354.48,Sim
+2611-OHKZL,Masculino,0,Não,4,DSL,Mensal,78.56,314.24,Não
+5102-PXOCW,Masculino,1,Sim,11,Fibra Ótica,Mensal,113.35,1246.85,Sim
+7060-LTUHY,Masculino,1,Não,68,Fibra Ótica,2 Anos,70.71,4808.28,Não
+2311-YDTIR,Feminino,0,Sim,3,DSL,Mensal,54.05,162.15,Não
+1271-KODZD,Masculino,0,Sim,17,Fibra Ótica,1 Ano,77.29,1313.93,Não
+6863-GQAXQ,Feminino,1,Não,4,DSL,Mensal,86.93,347.72,Não
+2534-KJDVI,Masculino,0,Sim,60,Não,2 Anos,67.67,4060.2,Não
+1150-WEQNF,Masculino,0,Sim,17,Fibra Ótica,1 Ano,69.11,1174.87,Não
+4460-COQQO,Feminino,1,Sim,6,Não,Mensal,41.25,247.5,Não
+3193-MWTRT,Masculino,1,Sim,10,DSL,Mensal,41.09,410.9,Não
+8636-FFMOR,Feminino,0,Sim,20,Não,1 Ano,34.86,697.2,Não
+4283-LBIVY,Feminino,1,Sim,28,DSL,2 Anos,85.96,2406.88,Não
+9030-MPYTN,Feminino,0,Não,42,DSL,2 Anos,68.62,2882.04,Não
+1200-GWOOA,Feminino,0,Não,3,Não,Mensal,106.87,320.61,Não
+8852-XDNIO,Masculino,0,Sim,37,Fibra Ótica,2 Anos,44.79,1657.23,Não
+7528-YBMCS,Masculino,1,Sim,14,Não,1 Ano,55.71,779.94,Não
+6951-LOACU,Feminino,1,Sim,2,Não,Mensal,62.39,124.78,Sim
+9217-DKWQS,Masculino,0,Não,8,Fibra Ótica,Mensal,77.56,620.48,Sim
+3802-TZJMB,Masculino,1,Não,18,DSL,1 Ano,35.95,647.1,Não
+3183-VESYE,Masculino,1,Não,55,DSL,2 Anos,72.77,4002.35,Não
+4847-IWKSD,Masculino,1,Sim,1,Fibra Ótica,Mensal,31.4,31.4,Sim
+9812-NVDBI,Feminino,0,Sim,34,DSL,2 Anos,96.61,3284.74,Sim
+8549-OGYSM,Feminino,0,Não,67,Não,2 Anos,84.71,5675.57,Sim
+5317-LCLQB,Masculino,0,Não,47,Fibra Ótica,2 Anos,82.15,3861.05,Não
+2189-MKHSX,Masculino,0,Não,5,DSL,Mensal,38.87,194.35,Sim
+7879-GCGHA,Masculino,0,Sim,24,Não,1 Ano,90.2,2164.8,Não
+7249-OALBS,Masculino,0,Não,6,DSL,Mensal,105.45,632.7,Não
+1064-OSSHL,Masculino,0,Não,12,DSL,Mensal,91.25,1095.0,Não
+8988-BFVTK,Feminino,0,Não,7,Fibra Ótica,Mensal,51.55,360.85,Sim
+4846-KKBJX,Masculino,0,Sim,1,Fibra Ótica,Mensal,82.18,82.18,Sim
+1800-KZMAD,Feminino,0,Sim,11,Fibra Ótica,Mensal,36.1,397.1,Não
+4399-FORQE,Feminino,0,Não,56,DSL,2 Anos,93.1,5213.6,Não
+4522-FWIBN,Feminino,0,Sim,13,DSL,1 Ano,80.49,1046.37,Não
+8767-SARMT,Feminino,1,Sim,24,DSL,1 Ano,69.82,1675.68,Não
+9066-QEFCF,Masculino,1,Sim,10,Fibra Ótica,Mensal,80.59,805.9,Não
+4452-XBOZQ,Masculino,0,Sim,6,DSL,Mensal,89.78,538.68,Não
+6329-CGMKN,Feminino,0,Não,66,DSL,2 Anos,99.84,6589.44,Não
+2623-JDCKP,Feminino,1,Não,1,Não,Mensal,87.06,87.06,Não
+2802-PEMTY,Masculino,0,Sim,7,DSL,Mensal,57.22,400.54,Não
+2138-DQERS,Masculino,0,Não,12,Não,Mensal,59.49,713.88,Não
+9507-SKAKK,Feminino,0,Não,2,DSL,Mensal,107.45,214.9,Sim
+9137-CMBBY,Masculino,0,Não,12,Fibra Ótica,1 Ano,83.75,1005.0,Sim
+6149-JASFH,Masculino,0,Não,8,DSL,Mensal,56.41,451.28,Não
+5856-ISCSI,Masculino,0,Não,3,Fibra Ótica,Mensal,106.49,319.47,Sim
+3191-UHBXF,Masculino,0,Não,4,Fibra Ótica,Mensal,93.89,375.56,Sim
+9592-ZDOEL,Masculino,1,Sim,10,Fibra Ótica,Mensal,54.19,541.9,Sim
+9081-MJBNF,Masculino,1,Não,4,DSL,Mensal,52.66,210.64,Sim
+3254-ESOVI,Masculino,0,Não,11,Não,Mensal,45.04,495.44,Não
+9778-FUHEJ,Feminino,0,Sim,4,DSL,Mensal,118.79,475.16,Sim
+7094-CMRYX,Masculino,0,Não,39,DSL,2 Anos,55.04,2146.56,Não
+5472-TVSSA,Feminino,0,Não,7,Fibra Ótica,Mensal,42.35,296.45,Sim
+3296-DZNTB,Feminino,0,Sim,9,Fibra Ótica,Mensal,43.35,390.15,Sim
+5490-JZLLE,Feminino,0,Sim,42,DSL,2 Anos,106.87,4488.54,Não
+4584-LBTWH,Feminino,0,Não,11,Não,Mensal,94.66,1041.26,Sim
+5227-XEJLD,Masculino,0,Não,7,Fibra Ótica,Mensal,97.98,685.86,Sim
+9623-KQHLS,Feminino,0,Sim,11,DSL,Mensal,113.9,1252.9,Não
+1274-QUNSS,Masculino,0,Não,9,DSL,Mensal,64.63,581.67,Não
+1979-QIGLT,Masculino,0,Sim,21,Não,1 Ano,108.85,2285.85,Não
+6784-EQHOO,Feminino,0,Não,34,Fibra Ótica,2 Anos,92.15,3133.1,Não
+3422-XVWDJ,Masculino,1,Não,6,Fibra Ótica,Mensal,37.32,223.92,Sim
+6779-ROCYY,Feminino,0,Não,13,DSL,1 Ano,70.89,921.57,Sim
+6478-AHMDP,Feminino,1,Não,16,Fibra Ótica,1 Ano,98.36,1573.76,Não
+9256-WEWYX,Feminino,1,Sim,18,Fibra Ótica,1 Ano,44.65,803.7,Não
+3354-MPDJO,Feminino,0,Não,14,Fibra Ótica,1 Ano,105.18,1472.52,Sim
+3905-ZDWJX,Masculino,0,Não,66,DSL,2 Anos,91.87,6063.42,Não
+8893-ISXFH,Feminino,0,Não,19,Não,1 Ano,100.19,1903.61,Não
+3209-KLOJT,Masculino,0,Não,5,DSL,Mensal,62.11,310.55,Sim
+9483-MAHVA,Masculino,1,Sim,32,Fibra Ótica,2 Anos,66.64,2132.48,Não
+9054-FVEBF,Feminino,1,Não,5,Não,Mensal,103.64,518.2,Sim
+4402-NDZFC,Masculino,0,Não,50,Fibra Ótica,2 Anos,63.04,3152.0,Não
+6709-LNWIQ,Feminino,1,Sim,6,Fibra Ótica,Mensal,69.08,414.48,Sim
+1923-XCVEE,Masculino,1,Sim,22,Fibra Ótica,1 Ano,99.14,2181.08,Não
+8923-EEYRK,Masculino,0,Sim,12,Fibra Ótica,Mensal,76.0,912.0,Sim
+7563-TWHIO,Feminino,1,Sim,12,Fibra Ótica,Mensal,116.36,1396.32,Sim
+4829-BSDRV,Masculino,0,Sim,49,Fibra Ótica,2 Anos,58.59,2870.91,Não
+8902-XCXZK,Masculino,1,Sim,5,DSL,Mensal,86.24,431.2,Não
+3974-BIZZI,Masculino,0,Sim,24,Fibra Ótica,1 Ano,117.67,2824.08,Não
+1754-MIOXR,Masculino,0,Sim,11,DSL,Mensal,65.16,716.76,Não
+9031-OFGCO,Masculino,0,Sim,63,DSL,2 Anos,35.79,2254.77,Não
+8052-VXLWK,Masculino,0,Sim,8,DSL,Mensal,53.27,426.16,Sim
+8454-CXAQY,Masculino,0,Não,8,DSL,Mensal,46.61,372.88,Não
+3362-JYVLB,Masculino,0,Sim,4,Fibra Ótica,Mensal,118.37,473.48,Não
+7429-HVELH,Feminino,1,Não,10,Fibra Ótica,Mensal,62.75,627.5,Sim
+3735-PNTPR,Feminino,0,Sim,12,DSL,Mensal,90.86,1090.32,Não
+7694-QDBMT,Feminino,0,Não,2,Fibra Ótica,Mensal,90.44,180.88,Sim
+3476-GAZYG,Feminino,0,Não,58,Não,2 Anos,51.74,3000.92,Não
+3694-RTGPU,Feminino,0,Sim,4,Fibra Ótica,Mensal,67.35,269.4,Não
+2101-OBBZI,Masculino,0,Sim,3,DSL,Mensal,70.69,212.07,Não
+3541-GEQKB,Masculino,0,Não,6,DSL,Mensal,108.61,651.66,Não
+1503-MUGJK,Masculino,0,Sim,12,DSL,1 Ano,84.71,1016.52,Sim
+5354-HUNOE,Masculino,0,Sim,17,Fibra Ótica,1 Ano,99.12,1685.04,Não
+8594-VZQIP,Masculino,1,Não,62,Não,2 Anos,72.47,4493.14,Não
+7490-PJRXC,Masculino,0,Sim,2,Fibra Ótica,Mensal,98.22,196.44,Não
+1101-HYZTW,Feminino,0,Não,24,Fibra Ótica,1 Ano,68.73,1649.52,Não
+5042-HMGLH,Feminino,0,Sim,12,Não,1 Ano,89.05,1068.6,Não
+6505-TVLMO,Feminino,0,Sim,70,Fibra Ótica,2 Anos,103.47,7242.9,Não
+3284-XNBZP,Masculino,0,Sim,10,DSL,Mensal,32.74,327.4,Não
+3661-YPIDS,Feminino,0,Não,62,Fibra Ótica,2 Anos,113.74,7051.88,Não
+5518-FIWYH,Feminino,0,Não,2,Fibra Ótica,Mensal,102.19,204.38,Sim
+1011-STXWD,Feminino,1,Sim,13,Não,1 Ano,44.89,583.57,Não
+2627-YVHNG,Feminino,0,Não,7,Fibra Ótica,Mensal,98.37,688.59,Sim
+1000-GAWBO,Feminino,0,Não,4,DSL,Mensal,118.33,473.32,Sim
+3029-DVJOG,Masculino,0,Não,8,Não,Mensal,119.51,956.08,Não
+6350-FEUJR,Masculino,0,Sim,24,Fibra Ótica,1 Ano,111.69,2680.56,Não
+5915-ZRTUT,Feminino,0,Não,71,DSL,2 Anos,54.47,3867.37,Sim
+2253-DUADU,Masculino,0,Sim,2,Fibra Ótica,Mensal,59.45,118.9,Não
+6717-FDCLD,Feminino,0,Sim,2,Fibra Ótica,Mensal,72.91,145.82,Sim
+3318-ODVLZ,Feminino,0,Não,53,Não,2 Anos,89.55,4746.15,Não
+2159-DMPMK,Feminino,0,Sim,7,Fibra Ótica,Mensal,113.56,794.92,Sim
+3447-JEKXQ,Masculino,0,Sim,38,DSL,2 Anos,84.09,3195.42,Não
+6557-DTNGQ,Masculino,0,Não,44,DSL,2 Anos,85.68,3769.92,Não
+3165-LJHDF,Masculino,1,Sim,2,Fibra Ótica,Mensal,76.58,153.16,Sim
+5175-TKRAU,Feminino,0,Sim,24,Fibra Ótica,1 Ano,107.15,2571.6,Não
+4379-YPOMF,Feminino,0,Não,9,DSL,Mensal,38.73,348.57,Sim
+5376-YNJRQ,Feminino,0,Sim,8,Fibra Ótica,Mensal,44.16,353.28,Sim
+7710-ZIKYI,Feminino,0,Sim,12,DSL,Mensal,40.78,489.36,Não
+4130-CSKBS,Feminino,0,Não,24,Não,1 Ano,71.38,1713.12,Não
+5720-RWOUL,Feminino,0,Sim,13,Não,1 Ano,52.2,678.6,Não
+8462-LLHGD,Masculino,1,Sim,3,Não,Mensal,76.89,230.67,Não
+8948-MVUKV,Feminino,1,Não,64,DSL,2 Anos,61.3,3923.2,Não
+5363-ZLKTB,Feminino,0,Sim,58,Fibra Ótica,2 Anos,52.52,3046.16,Não
+4391-BFXXN,Feminino,0,Não,23,Não,1 Ano,40.68,935.64,Não
+8803-ZHXEJ,Masculino,0,Não,12,Não,Mensal,32.95,395.4,Não
+4805-GAPAY,Feminino,0,Sim,57,DSL,2 Anos,86.5,4930.5,Não
+1802-WDWXH,Feminino,0,Não,3,Não,Mensal,104.93,314.79,Sim
+9510-BAWSA,Feminino,0,Não,8,DSL,Mensal,74.02,592.16,Não
+5497-HPHBL,Masculino,0,Não,12,DSL,Mensal,47.55,570.6,Sim
+9872-XHCZZ,Feminino,0,Sim,5,Fibra Ótica,Mensal,68.44,342.2,Sim
+2671-ZNKZW,Feminino,0,Sim,14,DSL,1 Ano,31.45,440.3,Não
+1427-MPKUR,Masculino,0,Não,19,Fibra Ótica,1 Ano,57.69,1096.11,Não
+3055-NMKIT,Masculino,0,Sim,2,Não,Mensal,37.66,75.32,Sim
+4945-UKJKM,Masculino,0,Não,45,DSL,2 Anos,79.94,3597.3,Sim
+4522-TBNRX,Feminino,0,Não,1,Fibra Ótica,Mensal,79.93,79.93,Sim
+7490-BMPOX,Feminino,0,Sim,6,Não,Mensal,41.96,251.76,Não
+1978-LHBLW,Masculino,0,Não,24,Não,2 Anos,74.21,1781.04,Não
+8583-LXIGS,Masculino,0,Não,3,Não,Mensal,67.05,201.15,Não
+1657-QORJR,Feminino,1,Não,13,DSL,1 Ano,80.47,1046.11,Não
+5608-DXAEX,Feminino,0,Não,4,Não,Mensal,92.3,369.2,Sim
+9917-BARYL,Masculino,1,Não,12,Fibra Ótica,Mensal,34.87,418.44,Não
+7626-LKKQV,Feminino,0,Sim,36,DSL,2 Anos,79.9,2876.4,Não
+3153-AEASO,Masculino,0,Não,17,Fibra Ótica,1 Ano,79.33,1348.61,Não
+4173-MUSYJ,Masculino,0,Sim,23,Fibra Ótica,1 Ano,106.49,2449.27,Não
+1155-VKAYW,Masculino,0,Sim,70,DSL,2 Anos,115.51,8085.7,Não
+3877-FDUYL,Masculino,0,Sim,70,Não,2 Anos,72.51,5075.7,Sim
+4004-FFOVQ,Feminino,0,Sim,67,DSL,2 Anos,41.32,2768.44,Não
+2205-LUHON,Masculino,0,Não,17,Não,1 Ano,105.28,1789.76,Não
+6962-LFTWN,Masculino,0,Não,12,DSL,Mensal,30.99,371.88,Não
+2365-TXVNC,Masculino,1,Sim,36,Não,2 Anos,73.74,2654.64,Não
+8385-XGGRY,Feminino,1,Não,9,Não,Mensal,96.03,864.27,Não
+3333-HBYYV,Feminino,0,Não,5,Fibra Ótica,Mensal,48.54,242.7,Sim
+6203-ISEGP,Feminino,0,Não,15,DSL,1 Ano,49.29,739.35,Não
+2738-PYRTD,Feminino,0,Não,23,Fibra Ótica,1 Ano,30.61,704.03,Não
+9021-KGFCC,Masculino,0,Não,7,Fibra Ótica,Mensal,104.6,732.2,Sim
+5494-QFZRR,Masculino,1,Não,14,DSL,1 Ano,57.87,810.18,Sim
+5587-KDXUC,Feminino,0,Não,12,Não,Mensal,95.53,1146.36,Não
+5914-ENWFO,Masculino,0,Sim,59,Fibra Ótica,2 Anos,101.94,6014.46,Sim
+4130-PALVY,Masculino,0,Sim,31,Fibra Ótica,2 Anos,63.5,1968.5,Não
+4225-VFTIJ,Masculino,0,Não,55,Não,2 Anos,92.95,5112.25,Não
+8351-LJNZP,Feminino,0,Não,8,Fibra Ótica,Mensal,54.51,436.08,Sim
+2691-GBIWB,Masculino,0,Não,13,DSL,1 Ano,111.29,1446.77,Não
+4525-MBDJT,Feminino,1,Não,2,DSL,Mensal,74.23,148.46,Sim
+6889-JGIMJ,Masculino,0,Sim,21,Fibra Ótica,1 Ano,93.99,1973.79,Não
+4218-YSQYP,Feminino,1,Não,6,DSL,Mensal,75.84,455.04,Não
+8063-NDZTH,Masculino,0,Sim,24,DSL,1 Ano,106.63,2559.12,Não
+1008-RMYUF,Masculino,0,Sim,9,Não,Mensal,92.84,835.56,Não
+7517-ZQDSX,Masculino,0,Sim,23,DSL,1 Ano,41.06,944.38,Não
+8581-FOENG,Masculino,0,Não,2,DSL,Mensal,117.63,235.26,Sim
+8723-HJTZY,Masculino,1,Não,6,Fibra Ótica,Mensal,66.02,396.12,Não
+6682-SMYGO,Feminino,0,Não,10,DSL,Mensal,54.39,543.9,Sim
+8331-BBIRX,Masculino,1,Sim,12,Fibra Ótica,1 Ano,77.13,925.56,Sim
+5106-FMLAW,Feminino,1,Não,9,Fibra Ótica,Mensal,32.11,288.99,Sim
+2616-HFJSR,Masculino,1,Sim,6,Não,Mensal,38.06,228.36,Não
+4594-TKCMF,Masculino,0,Sim,12,DSL,1 Ano,57.66,691.92,Não
+9884-VTGRW,Masculino,0,Não,7,Fibra Ótica,Mensal,58.06,406.42,Sim
+3614-ZBCWN,Feminino,0,Não,4,Não,Mensal,84.4,337.6,Não
+9649-HBEGJ,Feminino,0,Sim,60,Fibra Ótica,2 Anos,119.71,7182.6,Não
+9438-IJZMD,Feminino,0,Não,69,DSL,2 Anos,110.9,7652.1,Sim
+9086-XGPZP,Masculino,0,Não,8,DSL,Mensal,59.11,472.88,Não
+2925-RVYNB,Masculino,0,Não,18,DSL,1 Ano,100.73,1813.14,Não
+3973-TPFDL,Masculino,1,Sim,13,Não,1 Ano,108.63,1412.19,Não
+5216-YYLUI,Masculino,0,Não,3,Não,Mensal,56.58,169.74,Sim
+1793-ZYYUV,Masculino,0,Não,70,DSL,2 Anos,59.96,4197.2,Não
+7072-IVHZQ,Feminino,0,Não,17,Não,1 Ano,92.44,1571.48,Não
+2546-LWXIK,Feminino,0,Não,3,DSL,Mensal,117.78,353.34,Sim
+8853-XTWBF,Feminino,1,Sim,12,DSL,1 Ano,86.58,1038.96,Não
+1351-PLYOZ,Masculino,0,Sim,10,Não,Mensal,77.75,777.5,Não
+2788-XQWIC,Masculino,0,Não,13,DSL,1 Ano,82.93,1078.09,Não
+9484-GRFDJ,Feminino,0,Não,3,Não,Mensal,46.63,139.89,Sim
+2932-KZBDU,Masculino,1,Sim,4,Não,Mensal,59.04,236.16,Sim
+4937-USJBX,Feminino,0,Não,1,Fibra Ótica,Mensal,50.95,50.95,Sim
+4451-DBHNF,Masculino,0,Sim,42,DSL,2 Anos,46.59,1956.78,Não
+5128-FKQZR,Feminino,1,Sim,9,DSL,Mensal,110.5,994.5,Não
+7072-JLUHL,Feminino,0,Não,33,Não,2 Anos,55.3,1824.9,Não
+7230-UGSIP,Feminino,0,Não,5,DSL,Mensal,43.95,219.75,Sim
+1322-LIHIQ,Masculino,1,Não,28,Não,2 Anos,117.77,3297.56,Não
+2980-JHNGO,Feminino,0,Não,4,DSL,Mensal,103.57,414.28,Sim
+7928-QDLRJ,Feminino,0,Não,21,Fibra Ótica,1 Ano,104.89,2202.69,Não
+6722-KMJED,Feminino,0,Não,12,Não,Mensal,99.53,1194.36,Não
+1920-ZTZUW,Feminino,0,Não,24,DSL,1 Ano,68.87,1652.88,Não
+5735-TZBMD,Masculino,1,Sim,12,Não,Mensal,86.87,1042.44,Não
+5510-CVVVM,Feminino,0,Sim,16,DSL,1 Ano,90.03,1440.48,Não
+7128-NUVZY,Masculino,1,Não,3,Fibra Ótica,Mensal,76.32,228.96,Não
+8755-WKZAL,Masculino,0,Não,20,DSL,1 Ano,58.34,1166.8,Não
+5279-MJYOR,Feminino,1,Não,48,Fibra Ótica,2 Anos,83.64,4014.72,Não
+7304-RIDRH,Feminino,1,Não,9,Fibra Ótica,Mensal,66.37,597.33,Sim
+2893-GUWNJ,Feminino,1,Sim,14,Fibra Ótica,1 Ano,75.62,1058.68,Não
+1849-DGOJY,Masculino,1,Sim,24,DSL,1 Ano,91.21,2189.04,Não
+4690-CRCKH,Masculino,1,Sim,39,DSL,2 Anos,63.66,2482.74,Não
+1758-CYXUF,Feminino,0,Não,27,Fibra Ótica,2 Anos,50.68,1368.36,Não
+9900-LIUGO,Masculino,0,Sim,44,Fibra Ótica,2 Anos,32.92,1448.48,Sim
+9485-KJXFL,Feminino,0,Sim,9,DSL,Mensal,116.17,1045.53,Não
+4300-OZGAI,Masculino,0,Não,32,DSL,2 Anos,114.19,3654.08,Não
+1706-ZROHT,Feminino,0,Sim,8,DSL,Mensal,105.92,847.36,Não
+8854-SQQEK,Feminino,0,Não,6,DSL,Mensal,94.02,564.12,Não
+7201-CLQGQ,Feminino,0,Não,14,Fibra Ótica,1 Ano,48.49,678.86,Não
+9267-LUBPP,Feminino,0,Não,35,Fibra Ótica,2 Anos,84.04,2941.4,Não
+5955-VRAEJ,Masculino,0,Sim,65,Fibra Ótica,2 Anos,34.6,2249.0,Não
+9374-QQOQX,Feminino,0,Não,64,Fibra Ótica,2 Anos,119.34,7637.76,Não
+4063-AWWTK,Feminino,1,Não,8,DSL,Mensal,55.42,443.36,Sim
+4163-JFLRL,Masculino,0,Não,16,DSL,1 Ano,75.83,1213.28,Não
+7803-DGBDQ,Masculino,0,Não,10,Fibra Ótica,Mensal,62.98,629.8,Sim
+8885-TSWHR,Feminino,0,Sim,63,Fibra Ótica,2 Anos,37.5,2362.5,Não
+4050-KHIMC,Feminino,1,Sim,14,Fibra Ótica,1 Ano,103.65,1451.1,Não
+3799-AXENH,Masculino,1,Não,10,Fibra Ótica,Mensal,110.23,1102.3,Sim
+3331-PERBD,Feminino,1,Não,14,DSL,1 Ano,59.28,829.92,Não
+4787-VBDEZ,Feminino,0,Não,69,DSL,2 Anos,109.29,7541.01,Não
+5993-IVAZQ,Feminino,1,Sim,17,Não,1 Ano,87.96,1495.32,Não
+6942-NHHEG,Masculino,0,Não,52,Fibra Ótica,2 Anos,51.99,2703.48,Não
+4386-BLWHP,Masculino,0,Não,1,DSL,Mensal,50.16,50.16,Sim
+9552-EMKLO,Feminino,1,Não,60,DSL,2 Anos,106.34,6380.4,Não
+7655-SFZLX,Feminino,1,Não,11,DSL,Mensal,86.04,946.44,Não
+6005-NFXQH,Feminino,1,Sim,3,Fibra Ótica,Mensal,103.54,310.62,Sim
+3551-SKAVN,Feminino,0,Sim,10,Fibra Ótica,Mensal,36.53,365.3,Sim
+3863-BVPAE,Masculino,0,Não,2,DSL,Mensal,43.6,87.2,Não
+5753-NTTDS,Masculino,0,Não,5,Não,Mensal,107.25,536.25,Não
+2180-FIGXM,Feminino,0,Não,10,Não,Mensal,36.57,365.7,Não
+5521-UPTEB,Masculino,0,Sim,8,Fibra Ótica,Mensal,74.83,598.64,Não
+9322-GJZPV,Masculino,1,Sim,2,Fibra Ótica,Mensal,104.01,208.02,Sim
+3002-XYLZO,Feminino,0,Não,1,Fibra Ótica,Mensal,114.3,114.3,Não
+2951-SPTLZ,Feminino,0,Não,62,Fibra Ótica,2 Anos,94.39,5852.18,Não
+7458-KEYMR,Feminino,0,Não,18,Não,1 Ano,53.14,956.52,Não
+5146-QFCSQ,Masculino,0,Sim,12,DSL,Mensal,99.85,1198.2,Não
+1459-XUQTN,Feminino,0,Não,28,DSL,2 Anos,103.35,2893.8,Não
+9152-ODWBO,Masculino,0,Sim,41,DSL,2 Anos,47.33,1940.53,Não
+7482-VDKBP,Masculino,0,Não,2,DSL,Mensal,104.52,209.04,Sim
+2057-TTBOD,Masculino,0,Não,14,Fibra Ótica,1 Ano,41.68,583.52,Não
+4982-NRIJT,Masculino,0,Não,22,DSL,1 Ano,76.73,1688.06,Não
+3540-RLNZU,Masculino,1,Não,15,Fibra Ótica,1 Ano,52.77,791.55,Não
+8634-ANSKH,Masculino,0,Não,15,Fibra Ótica,1 Ano,70.94,1064.1,Não
+7102-NLGYF,Masculino,1,Sim,7,DSL,Mensal,36.04,252.28,Não
+6974-HIJRK,Masculino,0,Sim,13,Fibra Ótica,1 Ano,96.46,1253.98,Não
+7641-OYTMT,Feminino,1,Sim,5,Não,Mensal,74.42,372.1,Sim
+8698-GWZBV,Masculino,0,Sim,31,Fibra Ótica,2 Anos,36.75,1139.25,Não
+7109-NPPUD,Masculino,1,Sim,68,Fibra Ótica,2 Anos,72.24,4912.32,Não
+9664-HBIOG,Feminino,0,Não,5,DSL,Mensal,61.04,305.2,Sim
+9053-JMGZU,Feminino,0,Sim,9,Fibra Ótica,Mensal,86.81,781.29,Sim
+5344-UAKZR,Masculino,0,Não,25,Fibra Ótica,2 Anos,47.81,1195.25,Não
+2521-LYRKB,Feminino,0,Não,13,Fibra Ótica,1 Ano,60.86,791.18,Não
+3008-RRFYV,Feminino,1,Não,64,DSL,2 Anos,67.02,4289.28,Não
+4111-XAUIU,Masculino,0,Sim,5,Não,Mensal,99.58,497.9,Não
+1985-SHCBI,Feminino,0,Não,10,Não,Mensal,31.92,319.2,Não
+3028-WZCJR,Feminino,1,Sim,1,Não,Mensal,105.61,105.61,Sim
+6784-EHLVH,Feminino,1,Não,22,Fibra Ótica,1 Ano,71.06,1563.32,Não
+8108-MPSZD,Feminino,0,Sim,4,DSL,Mensal,113.07,452.28,Sim
+4359-MONBL,Feminino,1,Não,3,DSL,Mensal,82.84,248.52,Não
+9419-FLMHQ,Masculino,0,Não,40,Não,2 Anos,108.63,4345.2,Não
+6754-ZYIMJ,Masculino,0,Sim,2,DSL,Mensal,75.0,150.0,Sim
+3088-PVIGR,Masculino,0,Não,15,Fibra Ótica,1 Ano,95.65,1434.75,Não
+5946-DXBNG,Feminino,0,Sim,72,Fibra Ótica,2 Anos,98.03,7058.16,Não
+1748-WDEFN,Feminino,1,Sim,11,Fibra Ótica,Mensal,40.92,450.12,Sim
+4724-NNLCJ,Masculino,0,Não,16,Não,1 Ano,43.71,699.36,Não
+7014-GAUAC,Feminino,0,Sim,34,Fibra Ótica,2 Anos,102.24,3476.16,Não
+3758-HBHAE,Feminino,0,Sim,9,Não,Mensal,69.44,624.96,Não
+3348-EVLQK,Masculino,0,Sim,3,Fibra Ótica,Mensal,108.53,325.59,Sim
+8497-TIVFL,Feminino,0,Sim,5,DSL,Mensal,78.83,394.15,Sim
+3777-HQUJC,Feminino,0,Sim,9,Fibra Ótica,Mensal,88.41,795.69,Não
+1976-IZZIF,Feminino,0,Não,62,Não,2 Anos,66.33,4112.46,Não
+1982-CKCBY,Masculino,0,Não,12,Fibra Ótica,Mensal,58.19,698.28,Sim
+6322-VTPLM,Masculino,0,Não,2,Fibra Ótica,Mensal,52.48,104.96,Não
+9675-DQQRT,Feminino,0,Não,10,Fibra Ótica,Mensal,55.45,554.5,Sim
+4492-BWVOM,Feminino,0,Sim,1,DSL,Mensal,66.32,66.32,Sim
+3230-KUSEV,Feminino,0,Sim,24,Fibra Ótica,1 Ano,101.12,2426.88,Sim
+1035-LGMQM,Masculino,0,Sim,7,DSL,Mensal,95.86,671.02,Não
+8640-ILJVF,Masculino,0,Não,17,Fibra Ótica,1 Ano,33.87,575.79,Não
+8481-BPLWH,Masculino,0,Sim,7,Fibra Ótica,Mensal,75.99,531.93,Sim
+5270-OOIWR,Masculino,0,Sim,7,Fibra Ótica,Mensal,77.38,541.66,Sim
+4265-JMSYO,Feminino,1,Não,46,Fibra Ótica,2 Anos,109.95,5057.7,Não
+5246-IBYQF,Feminino,0,Não,14,DSL,1 Ano,48.0,672.0,Não
+3896-QMLPZ,Feminino,0,Não,4,DSL,Mensal,36.49,145.96,Sim
+7084-UZNNT,Masculino,0,Não,1,Fibra Ótica,Mensal,35.38,35.38,Não
+1464-HFKXB,Feminino,1,Não,5,Não,Mensal,110.58,552.9,Sim
+5950-SOIGD,Masculino,0,Sim,10,Não,Mensal,59.18,591.8,Não
+5132-YAJJZ,Masculino,0,Sim,62,Fibra Ótica,2 Anos,71.85,4454.7,Não
+6384-GKHQN,Feminino,1,Não,17,Não,1 Ano,113.88,1935.96,Não
+3840-YGEWI,Feminino,0,Sim,31,Fibra Ótica,2 Anos,55.94,1734.14,Não
+9524-PMMPL,Masculino,0,Sim,3,DSL,Mensal,54.45,163.35,Sim
+6985-OLDZS,Feminino,0,Sim,1,DSL,Mensal,41.46,41.46,Sim
+9632-KIAQS,Feminino,0,Sim,12,DSL,Mensal,87.75,1053.0,Não
+6635-YFXDX,Feminino,0,Não,3,Fibra Ótica,Mensal,59.64,178.92,Sim
